@@ -1,0 +1,1327 @@
+2026-01-05 09:11:12,198 INFO Bot tick at 09:11:12.198131
+2026-01-05 09:15:13,954 INFO Bot started
+2026-01-05 09:15:15,561 ERROR Data must be 1-dimensional, got ndarray of shape (301, 1) instead
+2026-01-05 09:16:15,564 INFO Bot started
+2026-01-05 09:16:15,944 ERROR Data must be 1-dimensional, got ndarray of shape (301, 1) instead
+2026-01-05 09:17:15,946 INFO Bot started
+2026-01-05 09:17:16,329 ERROR Data must be 1-dimensional, got ndarray of shape (301, 1) instead
+2026-01-05 09:18:16,330 INFO Bot started
+2026-01-05 09:18:16,701 ERROR Data must be 1-dimensional, got ndarray of shape (301, 1) instead
+2026-01-05 09:19:03,924 INFO Bot started
+2026-01-05 09:19:04,878 ERROR Data must be 1-dimensional, got ndarray of shape (301, 1) instead
+2026-01-05 09:20:04,880 INFO Bot started
+2026-01-05 09:20:05,254 ERROR Data must be 1-dimensional, got ndarray of shape (302, 1) instead
+2026-01-05 09:20:24,928 INFO Bot started
+2026-01-05 09:20:25,854 ERROR Data must be 1-dimensional, got ndarray of shape (302, 1) instead
+2026-01-05 09:20:45,685 INFO Bot started
+2026-01-05 09:20:45,685 ERROR name 'signal' is not defined
+2026-01-05 09:21:38,642 INFO Bot started
+2026-01-05 09:21:39,480 ERROR Data must be 1-dimensional, got ndarray of shape (302, 1) instead
+2026-01-05 09:22:02,068 INFO Bot started
+2026-01-05 09:22:02,734 ERROR Data must be 1-dimensional, got ndarray of shape (302, 1) instead
+2026-01-05 09:22:23,951 INFO Bot started
+2026-01-05 09:22:24,628 ERROR Data must be 1-dimensional, got ndarray of shape (302, 1) instead
+2026-01-05 09:23:24,628 INFO Bot started
+2026-01-05 09:23:24,938 ERROR Data must be 1-dimensional, got ndarray of shape (302, 1) instead
+2026-01-05 09:23:32,168 INFO Bot started
+2026-01-05 09:23:33,060 ERROR Data must be 1-dimensional, got ndarray of shape (302, 1) instead
+2026-01-05 09:24:08,553 INFO Bot started
+2026-01-05 09:24:09,494 ERROR Data must be 1-dimensional, got ndarray of shape (302, 1) instead
+2026-01-05 09:25:09,495 INFO Bot started
+2026-01-05 09:25:09,757 ERROR Data must be 1-dimensional, got ndarray of shape (303, 1) instead
+2026-01-05 09:25:39,476 INFO Bot started
+2026-01-05 09:25:40,141 ERROR Data must be 1-dimensional, got ndarray of shape (303, 1) instead
+2026-01-05 09:26:08,194 INFO Bot started
+2026-01-05 09:26:08,933 ERROR Data must be 1-dimensional, got ndarray of shape (303, 1) instead
+2026-01-05 09:27:08,087 INFO Bot started
+2026-01-05 09:27:08,966 ERROR Data must be 1-dimensional, got ndarray of shape (303, 1) instead
+2026-01-05 09:28:08,967 INFO Bot started
+2026-01-05 09:28:09,225 ERROR Data must be 1-dimensional, got ndarray of shape (303, 1) instead
+2026-01-05 09:29:09,227 INFO Bot started
+2026-01-05 09:29:09,499 ERROR Data must be 1-dimensional, got ndarray of shape (303, 1) instead
+2026-01-05 09:30:09,518 INFO Bot started
+2026-01-05 09:30:09,832 ERROR Data must be 1-dimensional, got ndarray of shape (304, 1) instead
+2026-01-05 09:31:09,835 INFO Bot started
+2026-01-05 09:31:10,105 ERROR Data must be 1-dimensional, got ndarray of shape (304, 1) instead
+2026-01-05 09:32:10,106 INFO Bot started
+2026-01-05 09:32:10,532 ERROR Data must be 1-dimensional, got ndarray of shape (304, 1) instead
+2026-01-05 09:32:29,988 INFO Bot started
+2026-01-05 09:32:31,005 ERROR Data must be 1-dimensional, got ndarray of shape (304, 1) instead
+2026-01-05 09:32:41,006 INFO Bot started
+2026-01-05 09:32:41,317 ERROR Data must be 1-dimensional, got ndarray of shape (304, 1) instead
+2026-01-05 09:32:51,319 INFO Bot started
+2026-01-05 09:32:51,625 ERROR Data must be 1-dimensional, got ndarray of shape (304, 1) instead
+2026-01-05 09:33:01,626 INFO Bot started
+2026-01-05 09:33:01,918 ERROR Data must be 1-dimensional, got ndarray of shape (304, 1) instead
+2026-01-05 09:33:11,919 INFO Bot started
+2026-01-05 09:33:12,297 ERROR Data must be 1-dimensional, got ndarray of shape (304, 1) instead
+2026-01-05 09:33:20,206 INFO Bot started
+2026-01-05 09:33:21,346 ERROR Data must be 1-dimensional, got ndarray of shape (304, 1) instead
+2026-01-05 09:33:31,347 INFO Bot started
+2026-01-05 09:33:31,736 ERROR Data must be 1-dimensional, got ndarray of shape (304, 1) instead
+2026-01-05 09:33:41,737 INFO Bot started
+2026-01-05 09:33:42,093 ERROR Data must be 1-dimensional, got ndarray of shape (304, 1) instead
+2026-01-05 09:33:47,340 INFO Bot started
+2026-01-05 09:33:48,418 ERROR Data must be 1-dimensional, got ndarray of shape (304, 1) instead
+2026-01-05 09:33:58,418 INFO Bot started
+2026-01-05 09:33:58,812 ERROR Data must be 1-dimensional, got ndarray of shape (304, 1) instead
+2026-01-05 09:34:06,868 INFO Bot started
+2026-01-05 09:34:07,687 ERROR Data must be 1-dimensional, got ndarray of shape (304, 1) instead
+2026-01-05 09:34:17,688 INFO Bot started
+2026-01-05 09:34:17,952 ERROR Data must be 1-dimensional, got ndarray of shape (304, 1) instead
+2026-01-05 09:34:27,954 INFO Bot started
+2026-01-05 09:34:28,375 ERROR Data must be 1-dimensional, got ndarray of shape (304, 1) instead
+2026-01-05 09:34:38,376 INFO Bot started
+2026-01-05 09:34:38,678 ERROR Data must be 1-dimensional, got ndarray of shape (304, 1) instead
+2026-01-05 09:34:48,679 INFO Bot started
+2026-01-05 09:34:48,934 ERROR Data must be 1-dimensional, got ndarray of shape (304, 1) instead
+2026-01-05 09:34:58,935 INFO Bot started
+2026-01-05 09:34:59,197 ERROR Data must be 1-dimensional, got ndarray of shape (304, 1) instead
+2026-01-05 09:35:09,198 INFO Bot started
+2026-01-05 09:35:09,423 ERROR Data must be 1-dimensional, got ndarray of shape (305, 1) instead
+2026-01-05 09:35:19,424 INFO Bot started
+2026-01-05 09:35:19,907 ERROR Data must be 1-dimensional, got ndarray of shape (305, 1) instead
+2026-01-05 09:35:29,908 INFO Bot started
+2026-01-05 09:35:30,136 ERROR Data must be 1-dimensional, got ndarray of shape (305, 1) instead
+2026-01-05 09:35:40,136 INFO Bot started
+2026-01-05 09:35:40,502 ERROR Data must be 1-dimensional, got ndarray of shape (305, 1) instead
+2026-01-05 09:35:50,503 INFO Bot started
+2026-01-05 09:35:50,718 ERROR Data must be 1-dimensional, got ndarray of shape (305, 1) instead
+2026-01-05 09:36:00,719 INFO Bot started
+2026-01-05 09:36:01,294 ERROR Data must be 1-dimensional, got ndarray of shape (305, 1) instead
+2026-01-05 09:36:11,245 INFO Bot started
+2026-01-05 09:36:12,043 ERROR 'Close'
+2026-01-05 09:36:22,044 INFO Bot started
+2026-01-05 09:36:22,310 ERROR 'Close'
+2026-01-05 09:36:32,310 INFO Bot started
+2026-01-05 09:36:32,513 ERROR 'Close'
+2026-01-05 09:36:42,515 INFO Bot started
+2026-01-05 09:36:42,783 ERROR 'Close'
+2026-01-05 09:36:52,783 INFO Bot started
+2026-01-05 09:36:53,005 ERROR 'Close'
+2026-01-05 09:37:00,604 INFO Bot started
+2026-01-05 09:37:01,901 ERROR 'Close'
+2026-01-05 09:37:11,901 INFO Bot started
+2026-01-05 09:37:12,219 ERROR 'Close'
+2026-01-05 09:37:22,220 INFO Bot started
+2026-01-05 09:37:22,608 ERROR 'Close'
+2026-01-05 09:37:32,609 INFO Bot started
+2026-01-05 09:37:32,838 ERROR 'Close'
+2026-01-05 09:37:43,916 INFO Bot started
+2026-01-05 09:37:44,781 INFO BUY RELIANCE.NS @ 1598.9000244140625 qty=31
+2026-01-05 09:37:54,795 INFO Bot started
+2026-01-05 09:38:03,824 INFO Bot started
+2026-01-05 09:38:04,537 INFO BUY RELIANCE.NS @ 1598.9000244140625 qty=31
+2026-01-05 09:38:14,579 INFO Bot started
+2026-01-05 09:38:25,083 INFO Bot started
+2026-01-05 09:38:35,752 INFO Bot started
+2026-01-05 09:38:46,388 INFO Bot started
+2026-01-05 09:38:56,885 INFO Bot started
+2026-01-05 09:39:07,635 INFO Bot started
+2026-01-05 09:39:18,099 INFO Bot started
+2026-01-05 09:39:28,809 INFO Bot started
+2026-01-05 09:39:39,346 INFO Bot started
+2026-01-05 09:39:49,828 INFO Bot started
+2026-01-05 09:39:59,706 INFO Bot started
+2026-01-05 09:40:00,681 INFO BUY RELIANCE.NS @ 1599.300048828125 qty=31
+2026-01-05 09:40:10,727 INFO Bot started
+2026-01-05 09:40:21,399 INFO Bot started
+2026-01-05 09:40:31,754 INFO Bot started
+2026-01-05 09:40:35,374 INFO Bot started
+2026-01-05 09:40:36,150 INFO BUY RELIANCE.NS @ 1599.9000244140625 qty=31
+2026-01-05 09:40:46,170 INFO Bot started
+2026-01-05 09:40:56,531 INFO Bot started
+2026-01-05 09:41:06,861 INFO Bot started
+2026-01-05 09:41:15,874 INFO Bot started
+2026-01-05 09:41:17,023 INFO BUY RELIANCE.NS @ 1600.0 qty=31
+2026-01-05 09:41:27,043 INFO Bot started
+2026-01-05 09:41:37,474 INFO Bot started
+2026-01-05 09:41:47,826 INFO Bot started
+2026-01-05 09:41:58,300 INFO Bot started
+2026-01-05 09:42:08,642 INFO Bot started
+2026-01-05 09:42:19,221 INFO Bot started
+2026-01-05 09:42:26,767 INFO Bot started
+2026-01-05 09:42:27,415 INFO BUY RELIANCE.NS @ 1599.4000244140625 qty=31
+2026-01-05 09:42:37,433 INFO Bot started
+2026-01-05 09:42:47,741 INFO Bot started
+2026-01-05 09:42:58,031 INFO Bot started
+2026-01-05 09:43:08,543 INFO Bot started
+2026-01-05 09:43:18,992 INFO Bot started
+2026-01-05 09:43:29,407 INFO Bot started
+2026-01-05 09:43:39,900 INFO Bot started
+2026-01-05 09:43:50,322 INFO Bot started
+2026-01-05 09:44:01,020 INFO Bot started
+2026-01-05 09:44:11,443 INFO Bot started
+2026-01-05 09:44:21,928 INFO Bot started
+2026-01-05 09:44:32,360 INFO Bot started
+2026-01-05 09:44:42,704 INFO Bot started
+2026-01-05 09:44:53,067 INFO Bot started
+2026-01-05 09:45:03,365 INFO Bot started
+2026-01-05 09:45:13,684 INFO Bot started
+2026-01-05 09:45:24,152 INFO Bot started
+2026-01-05 09:45:34,490 INFO Bot started
+2026-01-05 09:45:44,824 INFO Bot started
+2026-01-05 09:45:56,147 INFO Bot started
+2026-01-05 09:46:06,512 INFO Bot started
+2026-01-05 09:46:16,815 INFO Bot started
+2026-01-05 09:46:27,172 INFO Bot started
+2026-01-05 09:46:37,694 INFO Bot started
+2026-01-05 09:46:48,026 INFO Bot started
+2026-01-05 09:46:58,463 INFO Bot started
+2026-01-05 09:47:08,974 INFO Bot started
+2026-01-05 09:47:19,411 INFO Bot started
+2026-01-05 09:47:29,924 INFO Bot started
+2026-01-05 09:47:40,468 INFO Bot started
+2026-01-05 09:47:50,771 INFO Bot started
+2026-01-05 09:48:01,248 INFO Bot started
+2026-01-05 09:48:11,604 INFO Bot started
+2026-01-05 09:48:21,948 INFO Bot started
+2026-01-05 09:48:32,319 INFO Bot started
+2026-01-05 09:48:42,615 INFO Bot started
+2026-01-05 09:48:52,982 INFO Bot started
+2026-01-05 09:48:57,417 INFO Bot started
+2026-01-05 09:49:08,552 INFO Bot started
+2026-01-05 09:49:19,846 INFO Bot started
+2026-01-05 09:49:30,153 INFO Bot started
+2026-01-05 09:49:40,501 INFO Bot started
+2026-01-05 09:49:50,961 INFO Bot started
+2026-01-05 09:50:01,286 INFO Bot started
+2026-01-05 09:50:11,957 INFO Bot started
+2026-01-05 09:50:22,652 INFO Bot started
+2026-01-05 09:50:33,144 INFO Bot started
+2026-01-05 09:50:43,743 INFO Bot started
+2026-01-05 09:50:54,162 INFO Bot started
+2026-01-05 09:50:54,735 INFO BUY RELIANCE.NS @ 1597.9000244140625 qty=31
+2026-01-05 09:51:04,752 INFO Bot started
+2026-01-05 09:51:15,069 INFO Bot started
+2026-01-05 09:51:25,370 INFO Bot started
+2026-01-05 09:51:32,297 INFO Bot started
+2026-01-05 09:51:42,940 INFO Bot started
+2026-01-05 09:51:53,235 INFO Bot started
+2026-01-05 09:52:03,974 INFO Bot started
+2026-01-05 09:52:14,723 INFO Bot started
+2026-01-05 09:52:25,514 INFO Bot started
+2026-01-05 09:52:35,859 INFO Bot started
+2026-01-05 09:52:46,357 INFO Bot started
+2026-01-05 09:52:56,696 INFO Bot started
+2026-01-05 09:53:06,989 INFO Bot started
+2026-01-05 09:53:17,520 INFO Bot started
+2026-01-05 09:53:27,797 INFO Bot started
+2026-01-05 09:53:38,125 INFO Bot started
+2026-01-05 09:53:48,423 INFO Bot started
+2026-01-05 09:53:48,742 INFO SELL RELIANCE.NS @ 1597.5
+2026-01-05 09:53:58,761 INFO Bot started
+2026-01-05 09:53:59,076 INFO SELL RELIANCE.NS @ 1597.699951171875
+2026-01-05 09:53:59,077 ERROR 'DataFrame' object has no attribute 'ema9'
+2026-01-05 09:54:09,077 INFO Bot started
+2026-01-05 09:54:09,515 INFO SELL RELIANCE.NS @ 1597.0999755859375
+2026-01-05 09:54:19,532 INFO Bot started
+2026-01-05 09:54:20,154 INFO SELL RELIANCE.NS @ 1597.199951171875
+2026-01-05 09:54:30,171 INFO Bot started
+2026-01-05 09:54:30,641 INFO SELL RELIANCE.NS @ 1597.5
+2026-01-05 09:54:40,656 INFO Bot started
+2026-01-05 09:54:41,063 INFO SELL RELIANCE.NS @ 1597.5
+2026-01-05 09:54:51,079 INFO Bot started
+2026-01-05 09:54:51,757 INFO SELL RELIANCE.NS @ 1597.800048828125
+2026-01-05 09:54:51,757 ERROR 'DataFrame' object has no attribute 'ema9'
+2026-01-05 09:55:01,759 INFO Bot started
+2026-01-05 09:55:02,195 INFO SELL RELIANCE.NS @ 1597.699951171875
+2026-01-05 09:55:02,195 ERROR 'DataFrame' object has no attribute 'ema9'
+2026-01-05 09:55:12,196 INFO Bot started
+2026-01-05 09:55:12,519 INFO SELL RELIANCE.NS @ 1597.4000244140625
+2026-01-05 09:55:22,542 INFO Bot started
+2026-01-05 09:55:22,871 INFO SELL RELIANCE.NS @ 1597.5
+2026-01-05 09:55:32,888 INFO Bot started
+2026-01-05 09:55:33,209 INFO SELL RELIANCE.NS @ 1597.199951171875
+2026-01-05 09:55:43,224 INFO Bot started
+2026-01-05 09:55:43,518 INFO SELL RELIANCE.NS @ 1596.9000244140625
+2026-01-05 09:55:53,538 INFO Bot started
+2026-01-05 09:55:53,820 INFO SELL RELIANCE.NS @ 1596.699951171875
+2026-01-05 09:56:03,836 INFO Bot started
+2026-01-05 09:56:04,134 INFO SELL RELIANCE.NS @ 1596.699951171875
+2026-01-05 09:56:14,153 INFO Bot started
+2026-01-05 09:56:14,455 INFO SELL RELIANCE.NS @ 1596.9000244140625
+2026-01-05 09:56:24,476 INFO Bot started
+2026-01-05 09:56:24,749 INFO SELL RELIANCE.NS @ 1596.9000244140625
+2026-01-05 09:56:34,765 INFO Bot started
+2026-01-05 09:56:35,207 INFO SELL RELIANCE.NS @ 1596.9000244140625
+2026-01-05 09:56:45,222 INFO Bot started
+2026-01-05 09:56:45,617 INFO SELL RELIANCE.NS @ 1596.9000244140625
+2026-01-05 09:56:55,633 INFO Bot started
+2026-01-05 09:56:56,107 INFO SELL RELIANCE.NS @ 1597.199951171875
+2026-01-05 09:57:06,124 INFO Bot started
+2026-01-05 09:57:06,418 INFO SELL RELIANCE.NS @ 1597.5999755859375
+2026-01-05 09:57:06,418 ERROR 'DataFrame' object has no attribute 'ema9'
+2026-01-05 09:57:16,419 INFO Bot started
+2026-01-05 09:57:16,720 INFO SELL RELIANCE.NS @ 1596.699951171875
+2026-01-05 10:11:41,739 INFO Bot started
+2026-01-05 10:11:52,690 INFO Bot started
+2026-01-05 10:12:03,061 INFO Bot started
+2026-01-05 10:12:13,366 INFO Bot started
+2026-01-05 10:12:23,888 INFO Bot started
+2026-01-05 10:12:34,205 INFO Bot started
+2026-01-05 10:12:44,489 INFO Bot started
+2026-01-05 10:12:44,821 ERROR 'DataFrame' object has no attribute 'ema9'
+2026-01-05 10:12:54,822 INFO Bot started
+2026-01-05 10:13:05,313 INFO Bot started
+2026-01-05 10:13:15,673 INFO Bot started
+2026-01-05 10:13:26,136 INFO Bot started
+2026-01-05 10:13:26,579 ERROR 'DataFrame' object has no attribute 'ema9'
+2026-01-05 10:13:36,580 INFO Bot started
+2026-01-05 10:13:36,904 ERROR 'DataFrame' object has no attribute 'ema9'
+2026-01-05 10:13:46,904 INFO Bot started
+2026-01-05 10:13:47,246 ERROR 'DataFrame' object has no attribute 'ema9'
+2026-01-05 10:13:57,247 INFO Bot started
+2026-01-05 10:13:57,726 ERROR 'DataFrame' object has no attribute 'ema9'
+2026-01-05 10:14:07,727 INFO Bot started
+2026-01-05 10:14:08,292 ERROR 'DataFrame' object has no attribute 'ema9'
+2026-01-05 10:14:18,292 INFO Bot started
+2026-01-05 10:14:18,593 ERROR 'DataFrame' object has no attribute 'ema9'
+2026-01-05 10:14:28,593 INFO Bot started
+2026-01-05 10:14:29,049 ERROR 'DataFrame' object has no attribute 'ema9'
+2026-01-05 10:14:39,050 INFO Bot started
+2026-01-05 10:14:39,352 ERROR 'DataFrame' object has no attribute 'ema9'
+2026-01-05 10:14:49,353 INFO Bot started
+2026-01-05 10:14:49,777 ERROR 'DataFrame' object has no attribute 'ema9'
+2026-01-05 10:14:59,777 INFO Bot started
+2026-01-05 10:15:00,082 ERROR 'DataFrame' object has no attribute 'ema9'
+2026-01-05 10:15:11,505 INFO Bot started
+2026-01-05 10:15:22,614 INFO Bot started
+2026-01-05 10:15:23,053 ERROR 'DataFrame' object has no attribute 'ema9'
+2026-01-05 10:15:33,054 INFO Bot started
+2026-01-05 10:15:43,424 INFO Bot started
+2026-01-05 10:15:53,722 INFO Bot started
+2026-01-05 10:15:54,090 ERROR 'DataFrame' object has no attribute 'ema9'
+2026-01-05 10:16:04,092 INFO Bot started
+2026-01-05 10:16:04,549 ERROR 'DataFrame' object has no attribute 'ema9'
+2026-01-05 10:16:14,550 INFO Bot started
+2026-01-05 10:16:15,030 ERROR 'DataFrame' object has no attribute 'ema9'
+2026-01-05 10:16:25,030 INFO Bot started
+2026-01-05 10:16:25,643 ERROR 'DataFrame' object has no attribute 'ema9'
+2026-01-05 10:16:35,643 INFO Bot started
+2026-01-05 10:16:35,992 ERROR 'DataFrame' object has no attribute 'ema9'
+2026-01-05 10:16:45,992 INFO Bot started
+2026-01-05 10:16:46,489 ERROR 'DataFrame' object has no attribute 'ema9'
+2026-01-05 10:16:56,494 INFO Bot started
+2026-01-05 10:17:07,194 INFO Bot started
+2026-01-05 10:17:17,536 INFO Bot started
+2026-01-05 10:17:27,811 INFO Bot started
+2026-01-05 10:17:38,144 INFO Bot started
+2026-01-05 10:17:48,478 INFO Bot started
+2026-01-05 10:17:58,777 INFO Bot started
+2026-01-05 10:18:09,159 INFO Bot started
+2026-01-05 10:18:19,517 INFO Bot started
+2026-01-05 10:18:30,026 INFO Bot started
+2026-01-05 10:18:30,611 ERROR 'DataFrame' object has no attribute 'ema9'
+2026-01-05 10:18:40,612 INFO Bot started
+2026-01-05 10:18:40,931 ERROR 'DataFrame' object has no attribute 'ema9'
+2026-01-05 10:18:50,933 INFO Bot started
+2026-01-05 10:18:51,280 ERROR 'DataFrame' object has no attribute 'ema9'
+2026-01-05 10:19:01,281 INFO Bot started
+2026-01-05 10:19:01,814 ERROR 'DataFrame' object has no attribute 'ema9'
+2026-01-05 10:19:11,815 INFO Bot started
+2026-01-05 10:19:12,127 ERROR 'DataFrame' object has no attribute 'ema9'
+2026-01-05 10:19:22,128 INFO Bot started
+2026-01-05 10:19:22,511 ERROR 'DataFrame' object has no attribute 'ema9'
+2026-01-05 10:19:32,512 INFO Bot started
+2026-01-05 10:19:33,016 ERROR 'DataFrame' object has no attribute 'ema9'
+2026-01-05 10:19:43,017 INFO Bot started
+2026-01-05 10:19:43,309 ERROR 'DataFrame' object has no attribute 'ema9'
+2026-01-05 10:19:53,311 INFO Bot started
+2026-01-05 10:19:53,594 ERROR 'DataFrame' object has no attribute 'ema9'
+2026-01-05 10:20:03,595 INFO Bot started
+2026-01-05 10:20:14,822 INFO Bot started
+2026-01-05 10:20:15,151 ERROR 'DataFrame' object has no attribute 'ema9'
+2026-01-05 10:20:25,152 INFO Bot started
+2026-01-05 10:20:28,539 ERROR 'DataFrame' object has no attribute 'ema9'
+2026-01-05 10:20:38,540 INFO Bot started
+2026-01-05 10:20:39,058 ERROR 'DataFrame' object has no attribute 'ema9'
+2026-01-05 10:20:49,060 INFO Bot started
+2026-01-05 10:20:49,518 ERROR 'DataFrame' object has no attribute 'ema9'
+2026-01-05 10:20:59,518 INFO Bot started
+2026-01-05 10:21:00,133 ERROR 'DataFrame' object has no attribute 'ema9'
+2026-01-05 10:21:10,133 INFO Bot started
+2026-01-05 10:21:10,585 ERROR 'DataFrame' object has no attribute 'ema9'
+2026-01-05 10:21:20,587 INFO Bot started
+2026-01-05 10:21:21,110 ERROR 'DataFrame' object has no attribute 'ema9'
+2026-01-05 10:21:31,111 INFO Bot started
+2026-01-05 10:21:31,479 ERROR 'DataFrame' object has no attribute 'ema9'
+2026-01-05 10:21:41,480 INFO Bot started
+2026-01-05 10:21:41,844 ERROR 'DataFrame' object has no attribute 'ema9'
+2026-01-05 10:21:51,845 INFO Bot started
+2026-01-05 10:21:52,286 ERROR 'DataFrame' object has no attribute 'ema9'
+2026-01-05 10:22:02,287 INFO Bot started
+2026-01-05 10:22:02,832 ERROR 'DataFrame' object has no attribute 'ema9'
+2026-01-05 10:22:12,833 INFO Bot started
+2026-01-05 10:22:23,438 INFO Bot started
+2026-01-05 10:22:33,782 INFO Bot started
+2026-01-05 10:22:34,200 ERROR 'DataFrame' object has no attribute 'ema9'
+2026-01-05 10:22:44,201 INFO Bot started
+2026-01-05 10:22:44,764 ERROR 'DataFrame' object has no attribute 'ema9'
+2026-01-05 10:22:54,766 INFO Bot started
+2026-01-05 10:22:55,265 ERROR 'DataFrame' object has no attribute 'ema9'
+2026-01-05 10:23:05,266 INFO Bot started
+2026-01-05 10:23:05,545 ERROR 'DataFrame' object has no attribute 'ema9'
+2026-01-05 10:23:15,546 INFO Bot started
+2026-01-05 10:23:16,337 ERROR 'DataFrame' object has no attribute 'ema9'
+2026-01-05 10:23:26,337 INFO Bot started
+2026-01-05 10:23:26,623 ERROR 'DataFrame' object has no attribute 'ema9'
+2026-01-05 10:23:36,624 INFO Bot started
+2026-01-05 10:23:37,186 ERROR 'DataFrame' object has no attribute 'ema9'
+2026-01-05 10:23:47,187 INFO Bot started
+2026-01-05 10:23:47,479 ERROR 'DataFrame' object has no attribute 'ema9'
+2026-01-05 10:23:57,480 INFO Bot started
+2026-01-05 10:23:57,797 ERROR 'DataFrame' object has no attribute 'ema9'
+2026-01-05 10:24:07,799 INFO Bot started
+2026-01-05 10:24:08,311 ERROR 'DataFrame' object has no attribute 'ema9'
+2026-01-05 10:24:18,312 INFO Bot started
+2026-01-05 10:24:18,867 ERROR 'DataFrame' object has no attribute 'ema9'
+2026-01-05 10:24:28,868 INFO Bot started
+2026-01-05 10:24:29,468 ERROR 'DataFrame' object has no attribute 'ema9'
+2026-01-05 10:24:39,469 INFO Bot started
+2026-01-05 10:24:39,828 ERROR 'DataFrame' object has no attribute 'ema9'
+2026-01-05 10:24:49,828 INFO Bot started
+2026-01-05 10:24:50,199 ERROR 'DataFrame' object has no attribute 'ema9'
+2026-01-05 10:25:00,200 INFO Bot started
+2026-01-05 10:25:00,515 ERROR 'DataFrame' object has no attribute 'ema9'
+2026-01-05 10:25:10,516 INFO Bot started
+2026-01-05 10:25:11,024 ERROR 'DataFrame' object has no attribute 'ema9'
+2026-01-05 10:25:21,025 INFO Bot started
+2026-01-05 10:25:21,539 ERROR 'DataFrame' object has no attribute 'ema9'
+2026-01-05 10:25:31,540 INFO Bot started
+2026-01-05 10:25:31,878 ERROR 'DataFrame' object has no attribute 'ema9'
+2026-01-05 10:25:41,878 INFO Bot started
+2026-01-05 10:25:42,893 ERROR 'DataFrame' object has no attribute 'ema9'
+2026-01-05 10:25:52,894 INFO Bot started
+2026-01-05 10:25:53,371 ERROR 'DataFrame' object has no attribute 'ema9'
+2026-01-05 10:26:03,372 INFO Bot started
+2026-01-05 10:26:03,764 ERROR 'DataFrame' object has no attribute 'ema9'
+2026-01-05 10:26:13,764 INFO Bot started
+2026-01-05 10:26:14,250 ERROR 'DataFrame' object has no attribute 'ema9'
+2026-01-05 10:26:24,250 INFO Bot started
+2026-01-05 10:26:24,741 ERROR 'DataFrame' object has no attribute 'ema9'
+2026-01-05 10:26:34,743 INFO Bot started
+2026-01-05 10:26:35,322 ERROR 'DataFrame' object has no attribute 'ema9'
+2026-01-05 10:26:45,323 INFO Bot started
+2026-01-05 10:26:45,900 ERROR 'DataFrame' object has no attribute 'ema9'
+2026-01-05 10:26:55,901 INFO Bot started
+2026-01-05 10:26:56,230 ERROR 'DataFrame' object has no attribute 'ema9'
+2026-01-05 10:27:06,231 INFO Bot started
+2026-01-05 10:27:06,826 ERROR 'DataFrame' object has no attribute 'ema9'
+2026-01-05 10:27:16,827 INFO Bot started
+2026-01-05 10:27:17,194 ERROR 'DataFrame' object has no attribute 'ema9'
+2026-01-05 10:27:27,194 INFO Bot started
+2026-01-05 10:27:27,468 ERROR 'DataFrame' object has no attribute 'ema9'
+2026-01-05 10:27:37,469 INFO Bot started
+2026-01-05 10:27:37,786 ERROR 'DataFrame' object has no attribute 'ema9'
+2026-01-05 10:27:47,788 INFO Bot started
+2026-01-05 10:27:48,290 ERROR 'DataFrame' object has no attribute 'ema9'
+2026-01-05 10:27:58,291 INFO Bot started
+2026-01-05 10:27:58,714 ERROR 'DataFrame' object has no attribute 'ema9'
+2026-01-05 10:28:08,715 INFO Bot started
+2026-01-05 10:28:09,163 ERROR 'DataFrame' object has no attribute 'ema9'
+2026-01-05 10:28:19,164 INFO Bot started
+2026-01-05 10:28:19,664 ERROR 'DataFrame' object has no attribute 'ema9'
+2026-01-05 10:28:29,664 INFO Bot started
+2026-01-05 10:28:30,073 ERROR 'DataFrame' object has no attribute 'ema9'
+2026-01-05 10:28:40,074 INFO Bot started
+2026-01-05 10:28:40,628 ERROR 'DataFrame' object has no attribute 'ema9'
+2026-01-05 10:28:50,629 INFO Bot started
+2026-01-05 10:28:51,098 ERROR 'DataFrame' object has no attribute 'ema9'
+2026-01-05 10:29:01,099 INFO Bot started
+2026-01-05 10:29:01,691 ERROR 'DataFrame' object has no attribute 'ema9'
+2026-01-05 10:29:11,692 INFO Bot started
+2026-01-05 10:29:12,246 ERROR 'DataFrame' object has no attribute 'ema9'
+2026-01-05 10:29:22,247 INFO Bot started
+2026-01-05 10:29:22,881 ERROR 'DataFrame' object has no attribute 'ema9'
+2026-01-05 10:29:32,882 INFO Bot started
+2026-01-05 10:29:33,229 ERROR 'DataFrame' object has no attribute 'ema9'
+2026-01-05 10:29:43,230 INFO Bot started
+2026-01-05 10:29:43,552 ERROR 'DataFrame' object has no attribute 'ema9'
+2026-01-05 10:29:53,553 INFO Bot started
+2026-01-05 10:29:54,008 ERROR 'DataFrame' object has no attribute 'ema9'
+2026-01-05 10:30:04,009 INFO Bot started
+2026-01-05 10:30:04,436 ERROR 'DataFrame' object has no attribute 'ema9'
+2026-01-05 10:30:14,437 INFO Bot started
+2026-01-05 10:30:14,857 ERROR 'DataFrame' object has no attribute 'ema9'
+2026-01-05 10:30:24,858 INFO Bot started
+2026-01-05 10:30:35,292 INFO Bot started
+2026-01-05 10:30:45,762 INFO Bot started
+2026-01-05 10:30:56,207 INFO Bot started
+2026-01-05 10:31:06,757 INFO Bot started
+2026-01-05 10:31:17,291 INFO Bot started
+2026-01-05 10:31:27,768 INFO Bot started
+2026-01-05 10:31:38,301 INFO Bot started
+2026-01-05 10:31:48,886 INFO Bot started
+2026-01-05 10:31:59,376 INFO Bot started
+2026-01-05 10:32:09,695 INFO Bot started
+2026-01-05 10:32:20,210 INFO Bot started
+2026-01-05 10:32:30,706 INFO Bot started
+2026-01-05 10:32:41,001 INFO Bot started
+2026-01-05 10:32:51,339 INFO Bot started
+2026-01-05 10:33:01,619 INFO Bot started
+2026-01-05 10:33:11,936 INFO Bot started
+2026-01-05 10:33:22,249 INFO Bot started
+2026-01-05 10:33:32,565 INFO Bot started
+2026-01-05 10:33:42,895 INFO Bot started
+2026-01-05 10:33:53,245 INFO Bot started
+2026-01-05 10:34:03,716 INFO Bot started
+2026-01-05 10:34:14,108 INFO Bot started
+2026-01-05 10:34:24,479 INFO Bot started
+2026-01-05 10:34:34,781 INFO Bot started
+2026-01-05 10:34:45,136 INFO Bot started
+2026-01-05 10:34:55,689 INFO Bot started
+2026-01-05 10:35:06,171 INFO Bot started
+2026-01-05 10:35:16,522 INFO Bot started
+2026-01-05 10:35:27,247 INFO Bot started
+2026-01-05 10:35:37,592 INFO Bot started
+2026-01-05 10:35:47,914 INFO Bot started
+2026-01-05 10:35:58,338 INFO Bot started
+2026-01-05 10:36:08,717 INFO Bot started
+2026-01-05 10:36:19,162 INFO Bot started
+2026-01-05 10:36:29,670 INFO Bot started
+2026-01-05 10:36:40,066 INFO Bot started
+2026-01-05 10:36:50,474 INFO Bot started
+2026-01-05 10:37:00,873 INFO Bot started
+2026-01-05 10:37:11,555 INFO Bot started
+2026-01-05 10:37:21,907 INFO Bot started
+2026-01-05 10:37:32,227 INFO Bot started
+2026-01-05 10:37:42,718 INFO Bot started
+2026-01-05 10:37:43,039 ERROR 'DataFrame' object has no attribute 'ema9'
+2026-01-05 10:37:53,041 INFO Bot started
+2026-01-05 10:38:03,428 INFO Bot started
+2026-01-05 10:38:13,759 INFO Bot started
+2026-01-05 10:38:24,286 INFO Bot started
+2026-01-05 10:38:34,814 INFO Bot started
+2026-01-05 10:38:45,213 INFO Bot started
+2026-01-05 10:38:55,553 INFO Bot started
+2026-01-05 10:39:05,891 INFO Bot started
+2026-01-05 10:39:16,638 INFO Bot started
+2026-01-05 10:39:26,983 INFO Bot started
+2026-01-05 10:39:37,304 INFO Bot started
+2026-01-05 10:39:37,623 ERROR 'DataFrame' object has no attribute 'ema9'
+2026-01-05 10:39:47,624 INFO Bot started
+2026-01-05 10:39:47,882 ERROR 'DataFrame' object has no attribute 'ema9'
+2026-01-05 10:39:57,883 INFO Bot started
+2026-01-05 10:39:58,348 ERROR 'DataFrame' object has no attribute 'ema9'
+2026-01-05 10:40:08,349 INFO Bot started
+2026-01-05 10:40:08,802 ERROR 'DataFrame' object has no attribute 'ema9'
+2026-01-05 10:40:18,803 INFO Bot started
+2026-01-05 10:40:19,113 ERROR 'DataFrame' object has no attribute 'ema9'
+2026-01-05 10:40:29,115 INFO Bot started
+2026-01-05 10:40:29,467 ERROR 'DataFrame' object has no attribute 'ema9'
+2026-01-05 10:40:39,469 INFO Bot started
+2026-01-05 10:40:39,929 ERROR 'DataFrame' object has no attribute 'ema9'
+2026-01-05 10:40:49,930 INFO Bot started
+2026-01-05 10:40:50,444 ERROR 'DataFrame' object has no attribute 'ema9'
+2026-01-05 10:41:00,445 INFO Bot started
+2026-01-05 10:41:00,822 ERROR 'DataFrame' object has no attribute 'ema9'
+2026-01-05 10:41:10,823 INFO Bot started
+2026-01-05 10:41:21,368 INFO Bot started
+2026-01-05 10:41:31,871 INFO Bot started
+2026-01-05 10:41:42,318 INFO Bot started
+2026-01-05 10:41:52,736 INFO Bot started
+2026-01-05 10:42:03,142 INFO Bot started
+2026-01-05 10:42:13,628 INFO Bot started
+2026-01-05 10:42:24,394 INFO Bot started
+2026-01-05 10:42:35,203 INFO Bot started
+2026-01-05 10:42:45,651 INFO Bot started
+2026-01-05 10:42:56,330 INFO Bot started
+2026-01-05 10:43:06,762 INFO Bot started
+2026-01-05 10:43:17,186 INFO Bot started
+2026-01-05 10:43:27,554 INFO Bot started
+2026-01-05 10:43:37,861 INFO Bot started
+2026-01-05 10:43:48,202 INFO Bot started
+2026-01-05 10:43:58,533 INFO Bot started
+2026-01-05 10:44:08,873 INFO Bot started
+2026-01-05 10:44:19,181 INFO Bot started
+2026-01-05 10:44:29,701 INFO Bot started
+2026-01-05 10:44:40,354 INFO Bot started
+2026-01-05 10:44:50,839 INFO Bot started
+2026-01-05 10:45:01,151 INFO Bot started
+2026-01-05 10:45:11,766 INFO Bot started
+2026-01-05 10:45:22,081 INFO Bot started
+2026-01-05 10:45:32,438 INFO Bot started
+2026-01-05 10:45:42,727 INFO Bot started
+2026-01-05 10:45:53,108 INFO Bot started
+2026-01-05 10:46:03,503 INFO Bot started
+2026-01-05 10:46:13,805 INFO Bot started
+2026-01-05 10:46:24,159 INFO Bot started
+2026-01-05 10:46:34,689 INFO Bot started
+2026-01-05 10:46:45,122 INFO Bot started
+2026-01-05 10:46:55,883 INFO Bot started
+2026-01-05 10:47:06,404 INFO Bot started
+2026-01-05 10:47:16,851 INFO Bot started
+2026-01-05 10:47:27,335 INFO Bot started
+2026-01-05 10:47:37,698 INFO Bot started
+2026-01-05 10:47:48,093 INFO Bot started
+2026-01-05 10:47:58,422 INFO Bot started
+2026-01-05 10:48:08,786 INFO Bot started
+2026-01-05 10:48:19,128 INFO Bot started
+2026-01-05 10:48:29,583 INFO Bot started
+2026-01-05 10:48:39,913 INFO Bot started
+2026-01-05 10:48:50,315 INFO Bot started
+2026-01-05 10:49:08,726 INFO Bot started
+2026-01-05 10:49:12,030 INFO Bot started
+2026-01-05 10:49:13,988 INFO Bot started
+2026-01-05 10:49:15,325 INFO Bot started
+2026-01-05 10:49:16,598 INFO Bot started
+2026-01-05 10:49:20,140 INFO Bot started
+2026-01-05 10:49:21,998 INFO Bot started
+2026-01-05 10:49:23,264 INFO Bot started
+2026-01-05 10:49:24,548 INFO Bot started
+2026-01-05 10:49:25,805 INFO Bot started
+2026-01-05 10:49:27,124 INFO Bot started
+2026-01-05 10:49:28,616 INFO Bot started
+2026-01-05 10:49:29,882 INFO Bot started
+2026-01-05 10:49:31,199 INFO Bot started
+2026-01-05 10:49:32,500 INFO Bot started
+2026-01-05 10:49:33,755 INFO Bot started
+2026-01-05 10:49:35,003 INFO Bot started
+2026-01-05 10:49:36,436 INFO Bot started
+2026-01-05 10:49:38,022 INFO Bot started
+2026-01-05 10:49:39,295 INFO Bot started
+2026-01-05 10:49:40,546 INFO Bot started
+2026-01-05 10:49:41,817 INFO Bot started
+2026-01-05 10:49:43,237 INFO Bot started
+2026-01-05 10:49:44,486 INFO Bot started
+2026-01-05 10:49:45,810 INFO Bot started
+2026-01-05 10:49:47,163 INFO Bot started
+2026-01-05 10:49:48,508 INFO Bot started
+2026-01-05 10:49:49,917 INFO Bot started
+2026-01-05 10:49:51,202 INFO Bot started
+2026-01-05 10:49:52,500 INFO Bot started
+2026-01-05 10:49:53,759 INFO Bot started
+2026-01-05 10:49:55,009 INFO Bot started
+2026-01-05 10:49:56,534 INFO Bot started
+2026-01-05 10:49:57,836 INFO Bot started
+2026-01-05 10:49:59,135 INFO Bot started
+2026-01-05 10:50:00,428 INFO Bot started
+2026-01-05 10:50:01,758 INFO Bot started
+2026-01-05 10:50:03,163 INFO Bot started
+2026-01-05 10:50:04,445 INFO Bot started
+2026-01-05 10:50:06,007 INFO Bot started
+2026-01-05 10:50:07,301 INFO Bot started
+2026-01-05 10:50:08,633 INFO Bot started
+2026-01-05 10:50:09,887 INFO Bot started
+2026-01-05 10:50:11,430 INFO Bot started
+2026-01-05 10:50:12,899 INFO Bot started
+2026-01-05 10:50:14,208 INFO Bot started
+2026-01-05 10:50:15,489 INFO Bot started
+2026-01-05 10:50:16,727 INFO Bot started
+2026-01-05 10:50:18,196 INFO Bot started
+2026-01-05 10:50:19,448 INFO Bot started
+2026-01-05 10:50:20,755 INFO Bot started
+2026-01-05 10:50:22,015 INFO Bot started
+2026-01-05 10:50:23,271 INFO Bot started
+2026-01-05 10:50:24,629 INFO Bot started
+2026-01-05 10:50:25,906 INFO Bot started
+2026-01-05 10:50:27,228 INFO Bot started
+2026-01-05 10:50:28,493 INFO Bot started
+2026-01-05 10:50:29,758 INFO Bot started
+2026-01-05 10:50:31,207 INFO Bot started
+2026-01-05 10:50:32,501 INFO Bot started
+2026-01-05 10:50:33,796 INFO Bot started
+2026-01-05 10:50:35,124 INFO Bot started
+2026-01-05 10:50:36,447 INFO Bot started
+2026-01-05 10:50:37,856 INFO Bot started
+2026-01-05 10:50:39,161 INFO Bot started
+2026-01-05 10:50:40,464 INFO Bot started
+2026-01-05 10:50:41,794 INFO Bot started
+2026-01-05 10:50:43,163 INFO Bot started
+2026-01-05 10:50:44,450 INFO Bot started
+2026-01-05 10:50:47,849 INFO Bot started
+2026-01-05 10:50:50,052 INFO Bot started
+2026-01-05 10:50:51,404 INFO Bot started
+2026-01-05 10:50:53,862 INFO Bot started
+2026-01-05 10:50:55,800 INFO Bot started
+2026-01-05 10:50:57,152 INFO Bot started
+2026-01-05 10:50:58,737 INFO Bot started
+2026-01-05 10:51:00,054 INFO Bot started
+2026-01-05 10:51:01,314 INFO Bot started
+2026-01-05 10:51:02,619 INFO Bot started
+2026-01-05 10:51:03,988 INFO Bot started
+2026-01-05 10:51:05,387 INFO Bot started
+2026-01-05 10:51:06,755 INFO Bot started
+2026-01-05 10:51:09,465 INFO Bot started
+2026-01-05 10:51:13,212 INFO Bot started
+2026-01-05 10:51:19,274 INFO Bot started
+2026-01-05 10:51:24,900 INFO Bot started
+2026-01-05 10:51:30,322 INFO Bot started
+2026-01-05 10:51:35,858 INFO Bot started
+2026-01-05 10:51:41,185 INFO Bot started
+2026-01-05 10:51:46,511 INFO Bot started
+2026-01-05 10:51:51,811 INFO Bot started
+2026-01-05 10:51:57,216 INFO Bot started
+2026-01-05 10:52:02,551 INFO Bot started
+2026-01-05 10:52:07,909 INFO Bot started
+2026-01-05 10:52:13,226 INFO Bot started
+2026-01-05 10:52:18,579 INFO Bot started
+2026-01-05 10:52:23,917 INFO Bot started
+2026-01-05 10:52:29,189 INFO Bot started
+2026-01-05 10:52:34,626 INFO Bot started
+2026-01-05 10:52:39,925 INFO Bot started
+2026-01-05 10:52:45,480 INFO Bot started
+2026-01-05 10:52:50,757 INFO Bot started
+2026-01-05 10:52:56,103 INFO Bot started
+2026-01-05 10:53:01,430 INFO Bot started
+2026-01-05 10:53:06,931 INFO Bot started
+2026-01-05 10:53:12,309 INFO Bot started
+2026-01-05 10:53:17,635 INFO Bot started
+2026-01-05 10:53:22,978 INFO Bot started
+2026-01-05 10:53:28,273 INFO Bot started
+2026-01-05 10:53:33,658 INFO Bot started
+2026-01-05 10:53:39,018 INFO Bot started
+2026-01-05 10:53:44,375 INFO Bot started
+2026-01-05 10:53:49,708 INFO Bot started
+2026-01-05 10:53:54,962 INFO Bot started
+2026-01-05 10:54:00,231 INFO Bot started
+2026-01-05 10:54:05,560 INFO Bot started
+2026-01-05 10:54:10,917 INFO Bot started
+2026-01-05 10:54:17,968 INFO Bot started
+2026-01-05 10:54:23,712 INFO Bot started
+2026-01-05 10:54:29,109 INFO Bot started
+2026-01-05 10:54:34,407 INFO Bot started
+2026-01-05 10:54:39,703 INFO Bot started
+2026-01-05 10:54:45,174 INFO Bot started
+2026-01-05 10:54:51,017 INFO Bot started
+2026-01-05 10:54:56,361 INFO Bot started
+2026-01-05 10:55:01,622 INFO Bot started
+2026-01-05 10:55:07,017 INFO Bot started
+2026-01-05 10:55:12,368 INFO Bot started
+2026-01-05 10:55:17,740 INFO Bot started
+2026-01-05 10:55:23,342 INFO Bot started
+2026-01-05 10:55:28,871 INFO Bot started
+2026-01-05 10:55:34,170 INFO Bot started
+2026-01-05 10:55:39,494 INFO Bot started
+2026-01-05 10:55:44,834 INFO Bot started
+2026-01-05 10:55:50,120 INFO Bot started
+2026-01-05 10:55:55,576 INFO Bot started
+2026-01-05 10:56:00,901 INFO Bot started
+2026-01-05 10:56:06,351 INFO Bot started
+2026-01-05 10:56:11,748 INFO Bot started
+2026-01-05 10:56:17,482 INFO Bot started
+2026-01-05 10:56:23,010 INFO Bot started
+2026-01-05 10:56:28,472 INFO Bot started
+2026-01-05 10:56:33,881 INFO Bot started
+2026-01-05 10:56:39,314 INFO Bot started
+2026-01-05 10:56:45,094 INFO Bot started
+2026-01-05 10:56:50,619 INFO Bot started
+2026-01-05 10:56:56,182 INFO Bot started
+2026-01-05 10:57:01,641 INFO Bot started
+2026-01-05 10:57:07,332 INFO Bot started
+2026-01-05 10:57:12,742 INFO Bot started
+2026-01-05 10:57:18,216 INFO Bot started
+2026-01-05 10:57:23,600 INFO Bot started
+2026-01-05 10:57:29,134 INFO Bot started
+2026-01-05 10:57:34,536 INFO Bot started
+2026-01-05 10:57:40,176 INFO Bot started
+2026-01-05 10:57:45,709 INFO Bot started
+2026-01-05 10:57:51,296 INFO Bot started
+2026-01-05 10:57:56,883 INFO Bot started
+2026-01-05 10:58:02,445 INFO Bot started
+2026-01-05 10:58:07,809 INFO Bot started
+2026-01-05 10:58:13,328 INFO Bot started
+2026-01-05 10:58:18,765 INFO Bot started
+2026-01-05 10:58:24,075 INFO Bot started
+2026-01-05 10:58:29,373 INFO Bot started
+2026-01-05 10:58:34,715 INFO Bot started
+2026-01-05 10:58:40,046 INFO Bot started
+2026-01-05 10:58:45,521 INFO Bot started
+2026-01-05 10:58:50,927 INFO Bot started
+2026-01-05 10:58:56,196 INFO Bot started
+2026-01-05 10:59:01,533 INFO Bot started
+2026-01-05 10:59:07,023 INFO Bot started
+2026-01-05 10:59:12,562 INFO Bot started
+2026-01-05 10:59:17,898 INFO Bot started
+2026-01-05 10:59:23,359 INFO Bot started
+2026-01-05 10:59:28,661 INFO Bot started
+2026-01-05 10:59:33,968 INFO Bot started
+2026-01-05 10:59:39,272 INFO Bot started
+2026-01-05 10:59:44,553 INFO Bot started
+2026-01-05 10:59:50,041 INFO Bot started
+2026-01-05 10:59:55,599 INFO Bot started
+2026-01-05 11:00:01,192 INFO Bot started
+2026-01-05 11:00:06,904 INFO Bot started
+2026-01-05 11:00:12,412 INFO Bot started
+2026-01-05 11:00:17,920 INFO Bot started
+2026-01-05 11:00:23,387 INFO Bot started
+2026-01-05 11:00:28,979 INFO Bot started
+2026-01-05 11:00:34,512 INFO Bot started
+2026-01-05 11:00:40,019 INFO Bot started
+2026-01-05 11:00:45,531 INFO Bot started
+2026-01-05 11:00:51,061 INFO Bot started
+2026-01-05 11:00:56,463 INFO Bot started
+2026-01-05 11:01:02,138 INFO Bot started
+2026-01-05 11:01:07,510 INFO Bot started
+2026-01-05 11:01:12,819 INFO Bot started
+2026-01-05 11:01:18,165 INFO Bot started
+2026-01-05 11:01:23,468 INFO Bot started
+2026-01-05 11:01:28,801 INFO Bot started
+2026-01-05 11:01:34,119 INFO Bot started
+2026-01-05 11:01:39,456 INFO Bot started
+2026-01-05 11:01:44,791 INFO Bot started
+2026-01-05 11:01:50,098 INFO Bot started
+2026-01-05 11:01:55,710 INFO Bot started
+2026-01-05 11:02:01,143 INFO Bot started
+2026-01-05 11:02:06,506 INFO Bot started
+2026-01-05 11:02:12,186 INFO Bot started
+2026-01-05 11:02:17,571 INFO Bot started
+2026-01-05 11:02:22,990 INFO Bot started
+2026-01-05 11:02:28,381 INFO Bot started
+2026-01-05 11:02:33,760 INFO Bot started
+2026-01-05 11:02:39,242 INFO Bot started
+2026-01-05 11:02:44,828 INFO Bot started
+2026-01-05 11:02:50,253 INFO Bot started
+2026-01-05 11:02:50,670 ERROR 'entry'
+2026-01-05 11:02:55,671 INFO Bot started
+2026-01-05 11:02:56,082 ERROR 'entry'
+2026-01-05 11:03:01,083 INFO Bot started
+2026-01-05 11:03:01,512 ERROR 'entry'
+2026-01-05 11:03:06,513 INFO Bot started
+2026-01-05 11:03:06,940 ERROR 'entry'
+2026-01-05 11:03:11,942 INFO Bot started
+2026-01-05 11:03:12,337 ERROR 'entry'
+2026-01-05 11:03:17,339 INFO Bot started
+2026-01-05 11:03:17,714 ERROR 'entry'
+2026-01-05 11:03:22,715 INFO Bot started
+2026-01-05 11:03:23,222 ERROR 'entry'
+2026-01-05 11:03:28,223 INFO Bot started
+2026-01-05 11:03:28,706 ERROR 'entry'
+2026-01-05 11:03:33,706 INFO Bot started
+2026-01-05 11:03:34,320 ERROR 'entry'
+2026-01-05 11:03:39,322 INFO Bot started
+2026-01-05 11:03:39,711 ERROR 'entry'
+2026-01-05 11:03:44,712 INFO Bot started
+2026-01-05 11:03:45,112 ERROR 'entry'
+2026-01-05 11:03:50,114 INFO Bot started
+2026-01-05 11:03:50,599 ERROR 'entry'
+2026-01-05 11:03:55,600 INFO Bot started
+2026-01-05 11:03:56,098 ERROR 'entry'
+2026-01-05 11:04:01,099 INFO Bot started
+2026-01-05 11:04:01,727 ERROR 'entry'
+2026-01-05 11:04:06,727 INFO Bot started
+2026-01-05 11:04:07,083 ERROR 'entry'
+2026-01-05 11:04:12,084 INFO Bot started
+2026-01-05 11:04:12,623 ERROR 'entry'
+2026-01-05 11:04:17,624 INFO Bot started
+2026-01-05 11:04:18,051 ERROR 'entry'
+2026-01-05 11:04:23,052 INFO Bot started
+2026-01-05 11:04:23,397 ERROR 'entry'
+2026-01-06 20:40:23,763 INFO Bot started
+2026-01-06 20:40:33,237 INFO BUY TCS.NS @ 3255.800048828125 qty=15
+2026-01-06 20:40:43,270 INFO Bot started
+2026-01-06 20:40:51,538 INFO Bot started
+2026-01-06 20:40:52,864 INFO BUY TCS.NS @ 3255.800048828125 qty=15
+2026-01-06 20:41:02,896 INFO Bot started
+2026-01-06 20:41:12,922 ERROR 
+2 Failed downloads:
+2026-01-06 20:41:12,922 ERROR ['INFY.NS', 'RELIANCE.NS']: TypeError("'NoneType' object is not subscriptable")
+2026-01-06 20:41:12,931 ERROR single positional indexer is out-of-bounds
+2026-01-06 20:41:22,932 INFO Bot started
+2026-01-06 20:41:34,335 INFO Bot started
+2026-01-06 20:41:45,511 INFO Bot started
+2026-01-06 20:41:59,669 INFO Bot started
+2026-01-06 20:42:11,771 INFO Bot started
+2026-01-06 20:42:15,574 INFO Bot started
+2026-01-06 20:42:22,161 INFO BUY TCS.NS @ 3255.800048828125 qty=15
+2026-01-06 20:42:30,304 INFO Bot started
+2026-01-06 20:42:32,204 INFO Bot started
+2026-01-06 20:42:38,494 INFO BUY TCS.NS @ 3255.800048828125 qty=15
+2026-01-06 20:42:48,089 INFO Bot started
+2026-01-06 20:42:59,012 INFO Bot started
+2026-01-06 20:43:10,561 INFO Bot started
+2026-01-06 20:43:22,052 INFO Bot started
+2026-01-06 20:43:33,297 INFO Bot started
+2026-01-06 20:43:44,174 INFO Bot started
+2026-01-06 20:43:55,408 INFO Bot started
+2026-01-06 20:44:05,432 ERROR 
+1 Failed download:
+2026-01-06 20:44:05,432 ERROR ['RELIANCE.NS']: TypeError("'NoneType' object is not subscriptable")
+2026-01-06 20:44:05,457 ERROR single positional indexer is out-of-bounds
+2026-01-06 20:44:10,020 INFO Bot started
+2026-01-06 20:44:12,565 INFO BUY TCS.NS @ 3255.800048828125 qty=15
+2026-01-06 20:44:22,594 INFO Bot started
+2026-01-06 20:44:33,380 INFO Bot started
+2026-01-06 20:44:43,408 ERROR 
+1 Failed download:
+2026-01-06 20:44:43,408 ERROR ['TCS.NS']: TypeError("'NoneType' object is not subscriptable")
+2026-01-06 20:44:43,427 ERROR single positional indexer is out-of-bounds
+2026-01-06 20:44:53,428 INFO Bot started
+2026-01-06 20:45:03,460 ERROR 
+1 Failed download:
+2026-01-06 20:45:03,460 ERROR ['RELIANCE.NS']: TypeError("'NoneType' object is not subscriptable")
+2026-01-06 20:45:03,471 ERROR single positional indexer is out-of-bounds
+2026-01-06 20:45:13,472 INFO Bot started
+2026-01-06 20:45:30,291 INFO Bot started
+2026-01-06 20:45:41,053 INFO Bot started
+2026-01-06 20:45:53,147 INFO Bot started
+2026-01-06 20:46:04,705 INFO Bot started
+2026-01-06 20:46:14,730 ERROR 
+1 Failed download:
+2026-01-06 20:46:14,730 ERROR ['TCS.NS']: TypeError("'NoneType' object is not subscriptable")
+2026-01-06 20:46:14,752 ERROR single positional indexer is out-of-bounds
+2026-01-06 20:46:24,752 INFO Bot started
+2026-01-06 20:46:51,865 INFO Bot started
+2026-01-06 20:46:56,027 INFO BUY TCS.NS @ 3255.800048828125 qty=15
+2026-01-06 23:56:32,726 INFO Bot started
+2026-01-06 23:56:33,947 ERROR $ADANIGREEN.NS: possibly delisted; no price data found  (period=1d) (Yahoo error = "Invalid input - interval=3h is not supported. Valid intervals: [1m, 2m, 5m, 15m, 30m, 60m, 90m, 1h, 4h, 1d, 5d, 1wk, 1mo, 3mo]")
+2026-01-06 23:56:33,950 ERROR $PAYTM.NS: possibly delisted; no price data found  (period=1d) (Yahoo error = "Invalid input - interval=3h is not supported. Valid intervals: [1m, 2m, 5m, 15m, 30m, 60m, 90m, 1h, 4h, 1d, 5d, 1wk, 1mo, 3mo]")
+2026-01-06 23:56:33,952 ERROR $SHREECEM.NS: possibly delisted; no price data found  (period=1d) (Yahoo error = "Invalid input - interval=3h is not supported. Valid intervals: [1m, 2m, 5m, 15m, 30m, 60m, 90m, 1h, 4h, 1d, 5d, 1wk, 1mo, 3mo]")
+2026-01-06 23:56:33,955 ERROR $WIPRO.NS: possibly delisted; no price data found  (period=1d) (Yahoo error = "Invalid input - interval=3h is not supported. Valid intervals: [1m, 2m, 5m, 15m, 30m, 60m, 90m, 1h, 4h, 1d, 5d, 1wk, 1mo, 3mo]")
+2026-01-06 23:56:33,958 ERROR $DMART.NS: possibly delisted; no price data found  (period=1d) (Yahoo error = "Invalid input - interval=3h is not supported. Valid intervals: [1m, 2m, 5m, 15m, 30m, 60m, 90m, 1h, 4h, 1d, 5d, 1wk, 1mo, 3mo]")
+2026-01-06 23:56:33,960 ERROR $BAJFINANCE.NS: possibly delisted; no price data found  (period=1d) (Yahoo error = "Invalid input - interval=3h is not supported. Valid intervals: [1m, 2m, 5m, 15m, 30m, 60m, 90m, 1h, 4h, 1d, 5d, 1wk, 1mo, 3mo]")
+2026-01-06 23:56:33,961 ERROR $ADANIENT.NS: possibly delisted; no price data found  (period=1d) (Yahoo error = "Invalid input - interval=3h is not supported. Valid intervals: [1m, 2m, 5m, 15m, 30m, 60m, 90m, 1h, 4h, 1d, 5d, 1wk, 1mo, 3mo]")
+2026-01-06 23:56:33,966 ERROR $APOLLOHOSP.NS: possibly delisted; no price data found  (period=1d) (Yahoo error = "Invalid input - interval=3h is not supported. Valid intervals: [1m, 2m, 5m, 15m, 30m, 60m, 90m, 1h, 4h, 1d, 5d, 1wk, 1mo, 3mo]")
+2026-01-06 23:56:34,834 ERROR $TATAPOWER.NS: possibly delisted; no price data found  (period=1d) (Yahoo error = "Invalid input - interval=3h is not supported. Valid intervals: [1m, 2m, 5m, 15m, 30m, 60m, 90m, 1h, 4h, 1d, 5d, 1wk, 1mo, 3mo]")
+2026-01-06 23:56:34,837 ERROR $ASIANPAINT.NS: possibly delisted; no price data found  (period=1d) (Yahoo error = "Invalid input - interval=3h is not supported. Valid intervals: [1m, 2m, 5m, 15m, 30m, 60m, 90m, 1h, 4h, 1d, 5d, 1wk, 1mo, 3mo]")
+2026-01-06 23:56:34,837 ERROR $ICICIBANK.NS: possibly delisted; no price data found  (period=1d) (Yahoo error = "Invalid input - interval=3h is not supported. Valid intervals: [1m, 2m, 5m, 15m, 30m, 60m, 90m, 1h, 4h, 1d, 5d, 1wk, 1mo, 3mo]")
+2026-01-06 23:56:34,838 ERROR $INDUSINDBK.NS: possibly delisted; no price data found  (period=1d) (Yahoo error = "Invalid input - interval=3h is not supported. Valid intervals: [1m, 2m, 5m, 15m, 30m, 60m, 90m, 1h, 4h, 1d, 5d, 1wk, 1mo, 3mo]")
+2026-01-06 23:56:34,839 ERROR $JSWENERGY.NS: possibly delisted; no price data found  (period=1d) (Yahoo error = "Invalid input - interval=3h is not supported. Valid intervals: [1m, 2m, 5m, 15m, 30m, 60m, 90m, 1h, 4h, 1d, 5d, 1wk, 1mo, 3mo]")
+2026-01-06 23:56:34,843 ERROR $SBIN.NS: possibly delisted; no price data found  (period=1d) (Yahoo error = "Invalid input - interval=3h is not supported. Valid intervals: [1m, 2m, 5m, 15m, 30m, 60m, 90m, 1h, 4h, 1d, 5d, 1wk, 1mo, 3mo]")
+2026-01-06 23:56:34,846 ERROR $BPCL.NS: possibly delisted; no price data found  (period=1d) (Yahoo error = "Invalid input - interval=3h is not supported. Valid intervals: [1m, 2m, 5m, 15m, 30m, 60m, 90m, 1h, 4h, 1d, 5d, 1wk, 1mo, 3mo]")
+2026-01-06 23:56:34,857 ERROR $SUNPHARMA.NS: possibly delisted; no price data found  (period=1d) (Yahoo error = "Invalid input - interval=3h is not supported. Valid intervals: [1m, 2m, 5m, 15m, 30m, 60m, 90m, 1h, 4h, 1d, 5d, 1wk, 1mo, 3mo]")
+2026-01-06 23:56:36,330 ERROR $DABUR.NS: possibly delisted; no price data found  (period=1d) (Yahoo error = "Invalid input - interval=3h is not supported. Valid intervals: [1m, 2m, 5m, 15m, 30m, 60m, 90m, 1h, 4h, 1d, 5d, 1wk, 1mo, 3mo]")
+2026-01-06 23:56:36,330 ERROR $NTPC.NS: possibly delisted; no price data found  (period=1d) (Yahoo error = "Invalid input - interval=3h is not supported. Valid intervals: [1m, 2m, 5m, 15m, 30m, 60m, 90m, 1h, 4h, 1d, 5d, 1wk, 1mo, 3mo]")
+2026-01-06 23:56:36,331 ERROR $PNB.NS: possibly delisted; no price data found  (period=1d) (Yahoo error = "Invalid input - interval=3h is not supported. Valid intervals: [1m, 2m, 5m, 15m, 30m, 60m, 90m, 1h, 4h, 1d, 5d, 1wk, 1mo, 3mo]")
+2026-01-06 23:56:36,332 ERROR $CANBK.NS: possibly delisted; no price data found  (period=1d) (Yahoo error = "Invalid input - interval=3h is not supported. Valid intervals: [1m, 2m, 5m, 15m, 30m, 60m, 90m, 1h, 4h, 1d, 5d, 1wk, 1mo, 3mo]")
+2026-01-06 23:56:36,333 ERROR $ALKEM.NS: possibly delisted; no price data found  (period=1d) (Yahoo error = "Invalid input - interval=3h is not supported. Valid intervals: [1m, 2m, 5m, 15m, 30m, 60m, 90m, 1h, 4h, 1d, 5d, 1wk, 1mo, 3mo]")
+2026-01-06 23:56:36,333 ERROR $TECHM.NS: possibly delisted; no price data found  (period=1d) (Yahoo error = "Invalid input - interval=3h is not supported. Valid intervals: [1m, 2m, 5m, 15m, 30m, 60m, 90m, 1h, 4h, 1d, 5d, 1wk, 1mo, 3mo]")
+2026-01-06 23:56:36,335 ERROR $SIEMENS.NS: possibly delisted; no price data found  (period=1d) (Yahoo error = "Invalid input - interval=3h is not supported. Valid intervals: [1m, 2m, 5m, 15m, 30m, 60m, 90m, 1h, 4h, 1d, 5d, 1wk, 1mo, 3mo]")
+2026-01-06 23:56:36,339 ERROR $IDFCFIRSTB.NS: possibly delisted; no price data found  (period=1d) (Yahoo error = "Invalid input - interval=3h is not supported. Valid intervals: [1m, 2m, 5m, 15m, 30m, 60m, 90m, 1h, 4h, 1d, 5d, 1wk, 1mo, 3mo]")
+2026-01-06 23:56:37,482 ERROR $TATACONSUM.NS: possibly delisted; no price data found  (period=1d) (Yahoo error = "Invalid input - interval=3h is not supported. Valid intervals: [1m, 2m, 5m, 15m, 30m, 60m, 90m, 1h, 4h, 1d, 5d, 1wk, 1mo, 3mo]")
+2026-01-06 23:56:37,483 ERROR $HEROMOTOCO.NS: possibly delisted; no price data found  (period=1d) (Yahoo error = "Invalid input - interval=3h is not supported. Valid intervals: [1m, 2m, 5m, 15m, 30m, 60m, 90m, 1h, 4h, 1d, 5d, 1wk, 1mo, 3mo]")
+2026-01-06 23:56:37,485 ERROR $TITAN.NS: possibly delisted; no price data found  (period=1d) (Yahoo error = "Invalid input - interval=3h is not supported. Valid intervals: [1m, 2m, 5m, 15m, 30m, 60m, 90m, 1h, 4h, 1d, 5d, 1wk, 1mo, 3mo]")
+2026-01-06 23:56:37,486 ERROR $CIPLA.NS: possibly delisted; no price data found  (period=1d) (Yahoo error = "Invalid input - interval=3h is not supported. Valid intervals: [1m, 2m, 5m, 15m, 30m, 60m, 90m, 1h, 4h, 1d, 5d, 1wk, 1mo, 3mo]")
+2026-01-06 23:56:37,486 ERROR $SBILIFE.NS: possibly delisted; no price data found  (period=1d) (Yahoo error = "Invalid input - interval=3h is not supported. Valid intervals: [1m, 2m, 5m, 15m, 30m, 60m, 90m, 1h, 4h, 1d, 5d, 1wk, 1mo, 3mo]")
+2026-01-06 23:56:37,487 ERROR $NESTLEIND.NS: possibly delisted; no price data found  (period=1d) (Yahoo error = "Invalid input - interval=3h is not supported. Valid intervals: [1m, 2m, 5m, 15m, 30m, 60m, 90m, 1h, 4h, 1d, 5d, 1wk, 1mo, 3mo]")
+2026-01-06 23:56:37,487 ERROR $BEL.NS: possibly delisted; no price data found  (period=1d) (Yahoo error = "Invalid input - interval=3h is not supported. Valid intervals: [1m, 2m, 5m, 15m, 30m, 60m, 90m, 1h, 4h, 1d, 5d, 1wk, 1mo, 3mo]")
+2026-01-06 23:56:37,488 ERROR $BAJAJFINSV.NS: possibly delisted; no price data found  (period=1d) (Yahoo error = "Invalid input - interval=3h is not supported. Valid intervals: [1m, 2m, 5m, 15m, 30m, 60m, 90m, 1h, 4h, 1d, 5d, 1wk, 1mo, 3mo]")
+2026-01-06 23:56:38,517 ERROR $HCLTECH.NS: possibly delisted; no price data found  (period=1d) (Yahoo error = "Invalid input - interval=3h is not supported. Valid intervals: [1m, 2m, 5m, 15m, 30m, 60m, 90m, 1h, 4h, 1d, 5d, 1wk, 1mo, 3mo]")
+2026-01-06 23:56:38,521 ERROR $LTIM.NS: possibly delisted; no price data found  (period=1d) (Yahoo error = "Invalid input - interval=3h is not supported. Valid intervals: [1m, 2m, 5m, 15m, 30m, 60m, 90m, 1h, 4h, 1d, 5d, 1wk, 1mo, 3mo]")
+2026-01-06 23:56:38,522 ERROR $ADANIPORTS.NS: possibly delisted; no price data found  (period=1d) (Yahoo error = "Invalid input - interval=3h is not supported. Valid intervals: [1m, 2m, 5m, 15m, 30m, 60m, 90m, 1h, 4h, 1d, 5d, 1wk, 1mo, 3mo]")
+2026-01-06 23:56:38,525 ERROR $DIVISLAB.NS: possibly delisted; no price data found  (period=1d) (Yahoo error = "Invalid input - interval=3h is not supported. Valid intervals: [1m, 2m, 5m, 15m, 30m, 60m, 90m, 1h, 4h, 1d, 5d, 1wk, 1mo, 3mo]")
+2026-01-06 23:56:38,526 ERROR $NYKAA.NS: possibly delisted; no price data found  (period=1d) (Yahoo error = "Invalid input - interval=3h is not supported. Valid intervals: [1m, 2m, 5m, 15m, 30m, 60m, 90m, 1h, 4h, 1d, 5d, 1wk, 1mo, 3mo]")
+2026-01-06 23:56:38,533 ERROR $RELIANCE.NS: possibly delisted; no price data found  (period=1d) (Yahoo error = "Invalid input - interval=3h is not supported. Valid intervals: [1m, 2m, 5m, 15m, 30m, 60m, 90m, 1h, 4h, 1d, 5d, 1wk, 1mo, 3mo]")
+2026-01-06 23:56:38,533 ERROR $INFY.NS: possibly delisted; no price data found  (period=1d) (Yahoo error = "Invalid input - interval=3h is not supported. Valid intervals: [1m, 2m, 5m, 15m, 30m, 60m, 90m, 1h, 4h, 1d, 5d, 1wk, 1mo, 3mo]")
+2026-01-06 23:56:38,544 ERROR $BANKBARODA.NS: possibly delisted; no price data found  (period=1d) (Yahoo error = "Invalid input - interval=3h is not supported. Valid intervals: [1m, 2m, 5m, 15m, 30m, 60m, 90m, 1h, 4h, 1d, 5d, 1wk, 1mo, 3mo]")
+2026-01-06 23:56:39,325 ERROR $SBICARD.NS: possibly delisted; no price data found  (period=1d) (Yahoo error = "Invalid input - interval=3h is not supported. Valid intervals: [1m, 2m, 5m, 15m, 30m, 60m, 90m, 1h, 4h, 1d, 5d, 1wk, 1mo, 3mo]")
+2026-01-06 23:56:39,328 ERROR $DRREDDY.NS: possibly delisted; no price data found  (period=1d) (Yahoo error = "Invalid input - interval=3h is not supported. Valid intervals: [1m, 2m, 5m, 15m, 30m, 60m, 90m, 1h, 4h, 1d, 5d, 1wk, 1mo, 3mo]")
+2026-01-06 23:56:39,330 ERROR $ICICIPRULI.NS: possibly delisted; no price data found  (period=1d) (Yahoo error = "Invalid input - interval=3h is not supported. Valid intervals: [1m, 2m, 5m, 15m, 30m, 60m, 90m, 1h, 4h, 1d, 5d, 1wk, 1mo, 3mo]")
+2026-01-06 23:56:39,333 ERROR $PIDILITIND.NS: possibly delisted; no price data found  (period=1d) (Yahoo error = "Invalid input - interval=3h is not supported. Valid intervals: [1m, 2m, 5m, 15m, 30m, 60m, 90m, 1h, 4h, 1d, 5d, 1wk, 1mo, 3mo]")
+2026-01-06 23:56:39,335 ERROR $IOC.NS: possibly delisted; no price data found  (period=1d) (Yahoo error = "Invalid input - interval=3h is not supported. Valid intervals: [1m, 2m, 5m, 15m, 30m, 60m, 90m, 1h, 4h, 1d, 5d, 1wk, 1mo, 3mo]")
+2026-01-06 23:56:39,338 ERROR $ONGC.NS: possibly delisted; no price data found  (period=1d) (Yahoo error = "Invalid input - interval=3h is not supported. Valid intervals: [1m, 2m, 5m, 15m, 30m, 60m, 90m, 1h, 4h, 1d, 5d, 1wk, 1mo, 3mo]")
+2026-01-06 23:56:39,342 ERROR $AUROPHARMA.NS: possibly delisted; no price data found  (period=1d) (Yahoo error = "Invalid input - interval=3h is not supported. Valid intervals: [1m, 2m, 5m, 15m, 30m, 60m, 90m, 1h, 4h, 1d, 5d, 1wk, 1mo, 3mo]")
+2026-01-06 23:56:39,344 ERROR $IRCTC.NS: possibly delisted; no price data found  (period=1d) (Yahoo error = "Invalid input - interval=3h is not supported. Valid intervals: [1m, 2m, 5m, 15m, 30m, 60m, 90m, 1h, 4h, 1d, 5d, 1wk, 1mo, 3mo]")
+2026-01-06 23:56:40,490 ERROR $AXISBANK.NS: possibly delisted; no price data found  (period=1d) (Yahoo error = "Invalid input - interval=3h is not supported. Valid intervals: [1m, 2m, 5m, 15m, 30m, 60m, 90m, 1h, 4h, 1d, 5d, 1wk, 1mo, 3mo]")
+2026-01-06 23:56:40,493 ERROR $BHARTIARTL.NS: possibly delisted; no price data found  (period=1d) (Yahoo error = "Invalid input - interval=3h is not supported. Valid intervals: [1m, 2m, 5m, 15m, 30m, 60m, 90m, 1h, 4h, 1d, 5d, 1wk, 1mo, 3mo]")
+2026-01-06 23:56:40,496 ERROR $HAVELLS.NS: possibly delisted; no price data found  (period=1d) (Yahoo error = "Invalid input - interval=3h is not supported. Valid intervals: [1m, 2m, 5m, 15m, 30m, 60m, 90m, 1h, 4h, 1d, 5d, 1wk, 1mo, 3mo]")
+2026-01-06 23:56:40,498 ERROR $GODREJCP.NS: possibly delisted; no price data found  (period=1d) (Yahoo error = "Invalid input - interval=3h is not supported. Valid intervals: [1m, 2m, 5m, 15m, 30m, 60m, 90m, 1h, 4h, 1d, 5d, 1wk, 1mo, 3mo]")
+2026-01-06 23:56:40,501 ERROR $HAL.NS: possibly delisted; no price data found  (period=1d) (Yahoo error = "Invalid input - interval=3h is not supported. Valid intervals: [1m, 2m, 5m, 15m, 30m, 60m, 90m, 1h, 4h, 1d, 5d, 1wk, 1mo, 3mo]")
+2026-01-06 23:56:40,504 ERROR $GRASIM.NS: possibly delisted; no price data found  (period=1d) (Yahoo error = "Invalid input - interval=3h is not supported. Valid intervals: [1m, 2m, 5m, 15m, 30m, 60m, 90m, 1h, 4h, 1d, 5d, 1wk, 1mo, 3mo]")
+2026-01-06 23:56:41,370 ERROR HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: TATAMOTORS.NS"}}}
+2026-01-06 23:56:41,373 ERROR $BHEL.NS: possibly delisted; no price data found  (period=1d) (Yahoo error = "Invalid input - interval=3h is not supported. Valid intervals: [1m, 2m, 5m, 15m, 30m, 60m, 90m, 1h, 4h, 1d, 5d, 1wk, 1mo, 3mo]")
+2026-01-06 23:56:41,379 ERROR $LUPIN.NS: possibly delisted; no price data found  (period=1d) (Yahoo error = "Invalid input - interval=3h is not supported. Valid intervals: [1m, 2m, 5m, 15m, 30m, 60m, 90m, 1h, 4h, 1d, 5d, 1wk, 1mo, 3mo]")
+2026-01-06 23:56:41,383 ERROR $VEDL.NS: possibly delisted; no price data found  (period=1d) (Yahoo error = "Invalid input - interval=3h is not supported. Valid intervals: [1m, 2m, 5m, 15m, 30m, 60m, 90m, 1h, 4h, 1d, 5d, 1wk, 1mo, 3mo]")
+2026-01-06 23:56:41,391 ERROR $HINDPETRO.NS: possibly delisted; no price data found  (period=1d) (Yahoo error = "Invalid input - interval=3h is not supported. Valid intervals: [1m, 2m, 5m, 15m, 30m, 60m, 90m, 1h, 4h, 1d, 5d, 1wk, 1mo, 3mo]")
+2026-01-06 23:56:41,394 ERROR $COALINDIA.NS: possibly delisted; no price data found  (period=1d) (Yahoo error = "Invalid input - interval=3h is not supported. Valid intervals: [1m, 2m, 5m, 15m, 30m, 60m, 90m, 1h, 4h, 1d, 5d, 1wk, 1mo, 3mo]")
+2026-01-06 23:56:41,397 ERROR $EICHERMOT.NS: possibly delisted; no price data found  (period=1d) (Yahoo error = "Invalid input - interval=3h is not supported. Valid intervals: [1m, 2m, 5m, 15m, 30m, 60m, 90m, 1h, 4h, 1d, 5d, 1wk, 1mo, 3mo]")
+2026-01-06 23:56:42,600 ERROR $TATASTEEL.NS: possibly delisted; no price data found  (period=1d) (Yahoo error = "Invalid input - interval=3h is not supported. Valid intervals: [1m, 2m, 5m, 15m, 30m, 60m, 90m, 1h, 4h, 1d, 5d, 1wk, 1mo, 3mo]")
+2026-01-06 23:56:42,604 ERROR $ITC.NS: possibly delisted; no price data found  (period=1d) (Yahoo error = "Invalid input - interval=3h is not supported. Valid intervals: [1m, 2m, 5m, 15m, 30m, 60m, 90m, 1h, 4h, 1d, 5d, 1wk, 1mo, 3mo]")
+2026-01-06 23:56:42,605 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1d) (Yahoo error = "Invalid input - interval=3h is not supported. Valid intervals: [1m, 2m, 5m, 15m, 30m, 60m, 90m, 1h, 4h, 1d, 5d, 1wk, 1mo, 3mo]")
+2026-01-06 23:56:42,606 ERROR $HINDUNILVR.NS: possibly delisted; no price data found  (period=1d) (Yahoo error = "Invalid input - interval=3h is not supported. Valid intervals: [1m, 2m, 5m, 15m, 30m, 60m, 90m, 1h, 4h, 1d, 5d, 1wk, 1mo, 3mo]")
+2026-01-06 23:56:42,607 ERROR $ADANIENSOL.NS: possibly delisted; no price data found  (period=1d) (Yahoo error = "Invalid input - interval=3h is not supported. Valid intervals: [1m, 2m, 5m, 15m, 30m, 60m, 90m, 1h, 4h, 1d, 5d, 1wk, 1mo, 3mo]")
+2026-01-06 23:56:42,608 ERROR $ULTRACEMCO.NS: possibly delisted; no price data found  (period=1d) (Yahoo error = "Invalid input - interval=3h is not supported. Valid intervals: [1m, 2m, 5m, 15m, 30m, 60m, 90m, 1h, 4h, 1d, 5d, 1wk, 1mo, 3mo]")
+2026-01-06 23:56:42,609 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1d) (Yahoo error = "Invalid input - interval=3h is not supported. Valid intervals: [1m, 2m, 5m, 15m, 30m, 60m, 90m, 1h, 4h, 1d, 5d, 1wk, 1mo, 3mo]")
+2026-01-06 23:56:42,612 ERROR $HDFCLIFE.NS: possibly delisted; no price data found  (period=1d) (Yahoo error = "Invalid input - interval=3h is not supported. Valid intervals: [1m, 2m, 5m, 15m, 30m, 60m, 90m, 1h, 4h, 1d, 5d, 1wk, 1mo, 3mo]")
+2026-01-06 23:56:43,439 ERROR $LT.NS: possibly delisted; no price data found  (period=1d) (Yahoo error = "Invalid input - interval=3h is not supported. Valid intervals: [1m, 2m, 5m, 15m, 30m, 60m, 90m, 1h, 4h, 1d, 5d, 1wk, 1mo, 3mo]")
+2026-01-06 23:56:43,442 ERROR $BRITANNIA.NS: possibly delisted; no price data found  (period=1d) (Yahoo error = "Invalid input - interval=3h is not supported. Valid intervals: [1m, 2m, 5m, 15m, 30m, 60m, 90m, 1h, 4h, 1d, 5d, 1wk, 1mo, 3mo]")
+2026-01-06 23:56:43,445 ERROR $HDFCBANK.NS: possibly delisted; no price data found  (period=1d) (Yahoo error = "Invalid input - interval=3h is not supported. Valid intervals: [1m, 2m, 5m, 15m, 30m, 60m, 90m, 1h, 4h, 1d, 5d, 1wk, 1mo, 3mo]")
+2026-01-06 23:56:43,448 ERROR $CHOLAFIN.NS: possibly delisted; no price data found  (period=1d) (Yahoo error = "Invalid input - interval=3h is not supported. Valid intervals: [1m, 2m, 5m, 15m, 30m, 60m, 90m, 1h, 4h, 1d, 5d, 1wk, 1mo, 3mo]")
+2026-01-06 23:56:43,449 ERROR $M&M.NS: possibly delisted; no price data found  (period=1d) (Yahoo error = "Invalid input - interval=3h is not supported. Valid intervals: [1m, 2m, 5m, 15m, 30m, 60m, 90m, 1h, 4h, 1d, 5d, 1wk, 1mo, 3mo]")
+2026-01-06 23:56:43,451 ERROR $TORNTPHARM.NS: possibly delisted; no price data found  (period=1d) (Yahoo error = "Invalid input - interval=3h is not supported. Valid intervals: [1m, 2m, 5m, 15m, 30m, 60m, 90m, 1h, 4h, 1d, 5d, 1wk, 1mo, 3mo]")
+2026-01-06 23:56:43,453 ERROR $KOTAKBANK.NS: possibly delisted; no price data found  (period=1d) (Yahoo error = "Invalid input - interval=3h is not supported. Valid intervals: [1m, 2m, 5m, 15m, 30m, 60m, 90m, 1h, 4h, 1d, 5d, 1wk, 1mo, 3mo]")
+2026-01-06 23:56:43,456 ERROR $POWERGRID.NS: possibly delisted; no price data found  (period=1d) (Yahoo error = "Invalid input - interval=3h is not supported. Valid intervals: [1m, 2m, 5m, 15m, 30m, 60m, 90m, 1h, 4h, 1d, 5d, 1wk, 1mo, 3mo]")
+2026-01-06 23:56:44,824 ERROR $BANDHANBNK.NS: possibly delisted; no price data found  (period=1d) (Yahoo error = "Invalid input - interval=3h is not supported. Valid intervals: [1m, 2m, 5m, 15m, 30m, 60m, 90m, 1h, 4h, 1d, 5d, 1wk, 1mo, 3mo]")
+2026-01-06 23:56:44,827 ERROR $ABB.NS: possibly delisted; no price data found  (period=1d) (Yahoo error = "Invalid input - interval=3h is not supported. Valid intervals: [1m, 2m, 5m, 15m, 30m, 60m, 90m, 1h, 4h, 1d, 5d, 1wk, 1mo, 3mo]")
+2026-01-06 23:56:44,830 ERROR $JSWSTEEL.NS: possibly delisted; no price data found  (period=1d) (Yahoo error = "Invalid input - interval=3h is not supported. Valid intervals: [1m, 2m, 5m, 15m, 30m, 60m, 90m, 1h, 4h, 1d, 5d, 1wk, 1mo, 3mo]")
+2026-01-06 23:56:44,832 ERROR $MARUTI.NS: possibly delisted; no price data found  (period=1d) (Yahoo error = "Invalid input - interval=3h is not supported. Valid intervals: [1m, 2m, 5m, 15m, 30m, 60m, 90m, 1h, 4h, 1d, 5d, 1wk, 1mo, 3mo]")
+2026-01-06 23:56:44,833 ERROR $POLYCAB.NS: possibly delisted; no price data found  (period=1d) (Yahoo error = "Invalid input - interval=3h is not supported. Valid intervals: [1m, 2m, 5m, 15m, 30m, 60m, 90m, 1h, 4h, 1d, 5d, 1wk, 1mo, 3mo]")
+2026-01-06 23:56:44,834 ERROR $TCS.NS: possibly delisted; no price data found  (period=1d) (Yahoo error = "Invalid input - interval=3h is not supported. Valid intervals: [1m, 2m, 5m, 15m, 30m, 60m, 90m, 1h, 4h, 1d, 5d, 1wk, 1mo, 3mo]")
+2026-01-06 23:56:44,844 ERROR 
+82 Failed downloads:
+2026-01-06 23:56:44,844 ERROR ['ADANIGREEN.NS', 'PAYTM.NS', 'SHREECEM.NS', 'WIPRO.NS', 'DMART.NS', 'BAJFINANCE.NS', 'ADANIENT.NS', 'APOLLOHOSP.NS', 'TATAPOWER.NS', 'ASIANPAINT.NS', 'ICICIBANK.NS', 'INDUSINDBK.NS', 'JSWENERGY.NS', 'SBIN.NS', 'BPCL.NS', 'SUNPHARMA.NS', 'DABUR.NS', 'NTPC.NS', 'PNB.NS', 'CANBK.NS', 'ALKEM.NS', 'TECHM.NS', 'SIEMENS.NS', 'IDFCFIRSTB.NS', 'TATACONSUM.NS', 'HEROMOTOCO.NS', 'TITAN.NS', 'CIPLA.NS', 'SBILIFE.NS', 'NESTLEIND.NS', 'BEL.NS', 'BAJAJFINSV.NS', 'HCLTECH.NS', 'LTIM.NS', 'ADANIPORTS.NS', 'DIVISLAB.NS', 'NYKAA.NS', 'RELIANCE.NS', 'INFY.NS', 'BANKBARODA.NS', 'SBICARD.NS', 'DRREDDY.NS', 'ICICIPRULI.NS', 'PIDILITIND.NS', 'IOC.NS', 'ONGC.NS', 'AUROPHARMA.NS', 'IRCTC.NS', 'AXISBANK.NS', 'BHARTIARTL.NS', 'HAVELLS.NS', 'GODREJCP.NS', 'HAL.NS', 'GRASIM.NS', 'BHEL.NS', 'LUPIN.NS', 'VEDL.NS', 'HINDPETRO.NS', 'COALINDIA.NS', 'EICHERMOT.NS', 'TATASTEEL.NS', 'ITC.NS', 'TATAMOTORS.NS', 'HINDUNILVR.NS', 'ADANIENSOL.NS', 'ULTRACEMCO.NS', 'ZOMATO.NS', 'HDFCLIFE.NS', 'LT.NS', 'BRITANNIA.NS', 'HDFCBANK.NS', 'CHOLAFIN.NS', 'M&M.NS', 'TORNTPHARM.NS', 'KOTAKBANK.NS', 'POWERGRID.NS', 'BANDHANBNK.NS', 'ABB.NS', 'JSWSTEEL.NS', 'MARUTI.NS', 'POLYCAB.NS', 'TCS.NS']: possibly delisted; no price data found  (period=1d) (Yahoo error = "Invalid input - interval=3h is not supported. Valid intervals: [1m, 2m, 5m, 15m, 30m, 60m, 90m, 1h, 4h, 1d, 5d, 1wk, 1mo, 3mo]")
+2026-01-06 23:57:10,461 INFO Bot started
+2026-01-06 23:57:13,089 ERROR HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: TATAMOTORS.NS"}}}
+2026-01-06 23:57:13,765 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1d) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-06 23:57:14,681 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1d) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-06 23:57:16,254 ERROR 
+2 Failed downloads:
+2026-01-06 23:57:16,254 ERROR ['TATAMOTORS.NS', 'ZOMATO.NS']: possibly delisted; no price data found  (period=1d) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-06 23:58:14,809 INFO Bot started
+2026-01-06 23:58:18,942 ERROR HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: TATAMOTORS.NS"}}}
+2026-01-06 23:58:19,920 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1d) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-06 23:58:21,518 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1d) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-06 23:58:21,523 ERROR 
+2 Failed downloads:
+2026-01-06 23:58:21,523 ERROR ['TATAMOTORS.NS', 'ZOMATO.NS']: possibly delisted; no price data found  (period=1d) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:01:34,627 INFO Bot started
+2026-01-07 00:01:37,916 ERROR HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: TATAMOTORS.NS"}}}
+2026-01-07 00:01:38,864 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:01:40,771 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:01:42,518 ERROR 
+2 Failed downloads:
+2026-01-07 00:01:42,518 ERROR ['TATAMOTORS.NS', 'ZOMATO.NS']: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:01:44,763 INFO BUY DIVISLAB.NS @ 6642.5 qty=5
+2026-01-07 00:11:09,286 INFO Bot started
+2026-01-07 00:11:11,496 ERROR HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: TATAMOTORS.NS"}}}
+2026-01-07 00:11:12,380 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:11:12,384 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:11:16,525 ERROR 
+2 Failed downloads:
+2026-01-07 00:11:16,525 ERROR ['TATAMOTORS.NS', 'ZOMATO.NS']: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:11:18,669 INFO BUY DIVISLAB.NS @ 6642.5 qty=5
+2026-01-07 00:11:29,540 INFO Bot started
+2026-01-07 00:11:30,487 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:11:30,489 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:11:35,644 ERROR 
+2 Failed downloads:
+2026-01-07 00:11:35,644 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:11:49,095 INFO Bot started
+2026-01-07 00:11:50,069 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:11:50,073 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:11:55,735 ERROR 
+2 Failed downloads:
+2026-01-07 00:11:55,735 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:16:27,247 INFO Bot started
+2026-01-07 00:16:31,722 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:16:34,235 ERROR HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: TATAMOTORS.NS"}}}
+2026-01-07 00:16:35,468 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:16:35,477 ERROR 
+2 Failed downloads:
+2026-01-07 00:16:35,477 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:16:37,823 INFO BUY DIVISLAB.NS @ 6642.5 qty=5
+2026-01-07 00:16:49,119 INFO Bot started
+2026-01-07 00:16:53,022 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:16:55,762 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:16:55,772 ERROR 
+2 Failed downloads:
+2026-01-07 00:16:55,772 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:17:09,048 INFO Bot started
+2026-01-07 00:17:12,852 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:17:15,790 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:17:15,793 ERROR 
+2 Failed downloads:
+2026-01-07 00:17:15,793 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:17:29,969 INFO Bot started
+2026-01-07 00:17:34,856 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:17:38,787 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:17:38,790 ERROR 
+2 Failed downloads:
+2026-01-07 00:17:38,790 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:17:52,545 INFO Bot started
+2026-01-07 00:17:57,215 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:18:01,184 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:18:01,190 ERROR 
+2 Failed downloads:
+2026-01-07 00:18:01,191 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:18:14,618 INFO Bot started
+2026-01-07 00:18:19,103 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:18:23,279 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:18:23,282 ERROR 
+2 Failed downloads:
+2026-01-07 00:18:23,282 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:18:37,509 INFO Bot started
+2026-01-07 00:18:43,315 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:18:47,783 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:18:47,786 ERROR 
+2 Failed downloads:
+2026-01-07 00:18:47,786 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:19:01,779 INFO Bot started
+2026-01-07 00:19:06,577 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:19:54,492 INFO Bot started
+2026-01-07 00:19:59,602 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:20:02,053 ERROR HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: TATAMOTORS.NS"}}}
+2026-01-07 00:20:03,022 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:20:03,028 ERROR 
+2 Failed downloads:
+2026-01-07 00:20:03,028 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:20:05,273 INFO BUY DIVISLAB.NS @ 6642.5 qty=5
+2026-01-07 00:20:16,465 INFO Bot started
+2026-01-07 00:20:19,047 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:20:20,959 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:20:22,382 ERROR 
+2 Failed downloads:
+2026-01-07 00:20:22,382 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:20:35,733 INFO Bot started
+2026-01-07 00:20:38,586 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:20:40,873 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:20:42,327 ERROR 
+2 Failed downloads:
+2026-01-07 00:20:42,327 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:21:10,778 INFO Bot started
+2026-01-07 00:21:14,411 ERROR HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: TATAMOTORS.NS"}}}
+2026-01-07 00:21:15,320 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:21:17,852 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:21:18,130 ERROR 
+2 Failed downloads:
+2026-01-07 00:21:18,130 ERROR ['TATAMOTORS.NS', 'ZOMATO.NS']: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:21:20,032 INFO BUY DIVISLAB.NS @ 6642.5 qty=5
+2026-01-07 00:21:30,759 INFO Bot started
+2026-01-07 00:21:33,605 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:21:36,469 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:21:37,195 ERROR 
+2 Failed downloads:
+2026-01-07 00:21:37,195 ERROR ['TATAMOTORS.NS', 'ZOMATO.NS']: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:21:49,946 INFO Bot started
+2026-01-07 00:21:53,783 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:21:56,315 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:21:57,131 ERROR 
+2 Failed downloads:
+2026-01-07 00:21:57,131 ERROR ['TATAMOTORS.NS', 'ZOMATO.NS']: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:21:58,335 INFO Bot started
+2026-01-07 00:22:00,757 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:22:06,898 ERROR HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: TATAMOTORS.NS"}}}
+2026-01-07 00:22:07,934 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:22:08,854 ERROR 
+2 Failed downloads:
+2026-01-07 00:22:08,854 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:22:10,720 INFO BUY DIVISLAB.NS @ 6642.5 qty=5
+2026-01-07 00:22:21,400 INFO Bot started
+2026-01-07 00:22:22,362 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:22:38,432 INFO Bot started
+2026-01-07 00:22:44,116 ERROR HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: TATAMOTORS.NS"}}}
+2026-01-07 00:22:45,182 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:22:45,860 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:22:50,778 ERROR 
+2 Failed downloads:
+2026-01-07 00:22:50,778 ERROR ['TATAMOTORS.NS', 'ZOMATO.NS']: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:22:52,486 INFO BUY DIVISLAB.NS @ 6642.5 qty=5
+2026-01-07 00:23:03,073 INFO Bot started
+2026-01-07 00:23:06,675 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:23:07,817 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:23:13,606 ERROR 
+2 Failed downloads:
+2026-01-07 00:23:13,606 ERROR ['TATAMOTORS.NS', 'ZOMATO.NS']: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:23:26,042 INFO Bot started
+2026-01-07 00:23:30,485 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:23:31,517 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:23:36,192 ERROR 
+2 Failed downloads:
+2026-01-07 00:23:36,192 ERROR ['TATAMOTORS.NS', 'ZOMATO.NS']: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:23:48,682 INFO Bot started
+2026-01-07 00:23:52,086 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:23:53,054 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:23:56,653 ERROR 
+2 Failed downloads:
+2026-01-07 00:23:56,653 ERROR ['TATAMOTORS.NS', 'ZOMATO.NS']: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:24:08,847 INFO Bot started
+2026-01-07 00:24:11,793 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:24:12,795 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:24:17,188 ERROR 
+2 Failed downloads:
+2026-01-07 00:24:17,188 ERROR ['TATAMOTORS.NS', 'ZOMATO.NS']: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:24:31,750 INFO Bot started
+2026-01-07 00:24:35,733 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:24:36,831 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:24:41,819 ERROR 
+2 Failed downloads:
+2026-01-07 00:24:41,819 ERROR ['TATAMOTORS.NS', 'ZOMATO.NS']: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:24:55,904 INFO Bot started
+2026-01-07 00:25:00,330 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:25:01,550 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:25:07,707 ERROR 
+2 Failed downloads:
+2026-01-07 00:25:07,707 ERROR ['TATAMOTORS.NS', 'ZOMATO.NS']: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:25:21,704 INFO Bot started
+2026-01-07 00:25:26,326 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:25:27,709 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:25:33,318 ERROR 
+2 Failed downloads:
+2026-01-07 00:25:33,318 ERROR ['TATAMOTORS.NS', 'ZOMATO.NS']: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:25:46,726 INFO Bot started
+2026-01-07 00:25:50,238 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:25:51,474 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:25:56,189 ERROR 
+2 Failed downloads:
+2026-01-07 00:25:56,189 ERROR ['TATAMOTORS.NS', 'ZOMATO.NS']: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:26:10,397 INFO Bot started
+2026-01-07 00:26:13,294 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:26:14,335 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:26:19,036 ERROR 
+2 Failed downloads:
+2026-01-07 00:26:19,036 ERROR ['TATAMOTORS.NS', 'ZOMATO.NS']: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:26:33,446 INFO Bot started
+2026-01-07 00:26:37,333 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:26:38,309 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:26:43,387 ERROR 
+2 Failed downloads:
+2026-01-07 00:26:43,387 ERROR ['TATAMOTORS.NS', 'ZOMATO.NS']: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:26:57,037 INFO Bot started
+2026-01-07 00:27:01,267 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:27:02,365 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:27:06,371 ERROR 
+2 Failed downloads:
+2026-01-07 00:27:06,371 ERROR ['TATAMOTORS.NS', 'ZOMATO.NS']: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:27:20,145 INFO Bot started
+2026-01-07 00:27:23,533 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:27:24,486 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:27:29,058 ERROR 
+2 Failed downloads:
+2026-01-07 00:27:29,058 ERROR ['TATAMOTORS.NS', 'ZOMATO.NS']: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:27:42,653 INFO Bot started
+2026-01-07 00:27:45,881 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:27:47,875 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:27:52,350 ERROR 
+2 Failed downloads:
+2026-01-07 00:27:52,351 ERROR ['TATAMOTORS.NS', 'ZOMATO.NS']: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:28:05,108 INFO Bot started
+2026-01-07 00:28:08,725 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:28:09,995 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:28:14,638 ERROR 
+2 Failed downloads:
+2026-01-07 00:28:14,638 ERROR ['TATAMOTORS.NS', 'ZOMATO.NS']: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:28:28,959 INFO Bot started
+2026-01-07 00:28:32,634 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:28:33,516 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:28:37,730 ERROR 
+2 Failed downloads:
+2026-01-07 00:28:37,730 ERROR ['TATAMOTORS.NS', 'ZOMATO.NS']: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:28:50,688 INFO Bot started
+2026-01-07 00:28:55,032 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:28:55,885 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:28:59,952 ERROR 
+2 Failed downloads:
+2026-01-07 00:28:59,952 ERROR ['TATAMOTORS.NS', 'ZOMATO.NS']: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:29:13,942 INFO Bot started
+2026-01-07 00:29:16,742 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:29:17,737 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:29:22,453 ERROR 
+2 Failed downloads:
+2026-01-07 00:29:22,453 ERROR ['TATAMOTORS.NS', 'ZOMATO.NS']: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:29:35,738 INFO Bot started
+2026-01-07 00:29:39,891 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:29:41,094 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:29:46,550 ERROR 
+2 Failed downloads:
+2026-01-07 00:29:46,550 ERROR ['TATAMOTORS.NS', 'ZOMATO.NS']: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:30:00,357 INFO Bot started
+2026-01-07 00:30:03,965 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:30:05,710 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:30:10,921 ERROR 
+2 Failed downloads:
+2026-01-07 00:30:10,921 ERROR ['TATAMOTORS.NS', 'ZOMATO.NS']: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:30:23,643 INFO Bot started
+2026-01-07 00:30:28,387 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:30:29,363 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:30:35,044 ERROR 
+2 Failed downloads:
+2026-01-07 00:30:35,044 ERROR ['TATAMOTORS.NS', 'ZOMATO.NS']: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:30:48,168 INFO Bot started
+2026-01-07 00:30:51,916 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:30:52,842 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:30:57,070 ERROR 
+2 Failed downloads:
+2026-01-07 00:30:57,070 ERROR ['TATAMOTORS.NS', 'ZOMATO.NS']: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:31:10,231 INFO Bot started
+2026-01-07 00:31:14,051 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:31:15,010 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:31:20,406 ERROR 
+2 Failed downloads:
+2026-01-07 00:31:20,406 ERROR ['TATAMOTORS.NS', 'ZOMATO.NS']: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:31:42,744 INFO Bot started
+2026-01-07 00:31:46,514 ERROR HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: TATAMOTORS.NS"}}}
+2026-01-07 00:31:47,355 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:32:45,846 INFO Bot started
+2026-01-07 00:32:52,606 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:32:55,991 ERROR HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: TATAMOTORS.NS"}}}
+2026-01-07 00:32:56,611 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:33:04,385 ERROR 
+3 Failed downloads:
+2026-01-07 00:33:04,386 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:33:04,386 ERROR ['AUROPHARMA.NS']: TypeError("'NoneType' object is not subscriptable")
+2026-01-07 00:33:07,833 INFO BUY DIVISLAB.NS @ 6642.5 qty=5
+2026-01-07 00:33:18,848 INFO Bot started
+2026-01-07 00:33:23,868 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:33:27,301 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:33:27,840 ERROR 
+2 Failed downloads:
+2026-01-07 00:33:27,840 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:33:42,368 INFO Bot started
+2026-01-07 00:33:57,126 INFO Bot started
+2026-01-07 00:34:06,013 ERROR HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: TATAMOTORS.NS"}}}
+2026-01-07 00:34:07,068 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:34:07,995 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:34:07,999 ERROR 
+2 Failed downloads:
+2026-01-07 00:34:07,999 ERROR ['TATAMOTORS.NS', 'ZOMATO.NS']: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:34:10,955 INFO BUY DIVISLAB.NS @ 6642.5 qty=5
+2026-01-07 00:34:21,871 INFO Bot started
+2026-01-07 00:34:29,796 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:34:30,589 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:34:31,160 ERROR 
+2 Failed downloads:
+2026-01-07 00:34:31,160 ERROR ['TATAMOTORS.NS', 'ZOMATO.NS']: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:34:45,048 INFO Bot started
+2026-01-07 00:34:55,476 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:34:56,551 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:34:56,681 ERROR 
+2 Failed downloads:
+2026-01-07 00:34:56,681 ERROR ['TATAMOTORS.NS', 'ZOMATO.NS']: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:35:10,696 INFO Bot started
+2026-01-07 00:35:19,551 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:35:20,397 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:35:20,688 ERROR 
+2 Failed downloads:
+2026-01-07 00:35:20,688 ERROR ['TATAMOTORS.NS', 'ZOMATO.NS']: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:35:34,681 INFO Bot started
+2026-01-07 00:35:43,768 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:35:44,961 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:35:45,379 ERROR 
+2 Failed downloads:
+2026-01-07 00:35:45,379 ERROR ['TATAMOTORS.NS', 'ZOMATO.NS']: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:35:59,808 INFO Bot started
+2026-01-07 00:36:09,546 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:36:10,389 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:36:18,472 INFO Bot started
+2026-01-07 00:36:26,221 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:36:26,249 ERROR HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: TATAMOTORS.NS"}}}
+2026-01-07 00:36:27,325 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:36:30,556 ERROR 
+2 Failed downloads:
+2026-01-07 00:36:30,556 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:36:33,091 INFO BUY DIVISLAB.NS @ 6642.5 qty=5
+2026-01-07 00:36:44,093 INFO Bot started
+2026-01-07 00:36:49,085 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:36:50,115 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:36:55,524 ERROR 
+2 Failed downloads:
+2026-01-07 00:36:55,524 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:37:09,534 INFO Bot started
+2026-01-07 00:37:14,232 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:37:14,233 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:37:19,604 ERROR 
+2 Failed downloads:
+2026-01-07 00:37:19,604 ERROR ['TATAMOTORS.NS', 'ZOMATO.NS']: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:37:33,721 INFO Bot started
+2026-01-07 00:37:41,553 ERROR HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: TATAMOTORS.NS"}}}
+2026-01-07 00:37:41,564 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:37:42,612 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:37:45,123 ERROR 
+2 Failed downloads:
+2026-01-07 00:37:45,123 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:37:47,096 INFO BUY DIVISLAB.NS @ 6642.5 qty=5
+2026-01-07 00:37:57,910 INFO Bot started
+2026-01-07 00:38:02,330 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:38:03,217 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:38:07,289 ERROR 
+2 Failed downloads:
+2026-01-07 00:38:07,289 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:38:20,854 INFO Bot started
+2026-01-07 00:38:24,655 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:38:25,580 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:38:29,376 ERROR 
+2 Failed downloads:
+2026-01-07 00:38:29,376 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-07 00:38:42,562 INFO Bot started
+2026-01-07 00:38:48,190 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=25y) (Yahoo error = "No data found, symbol may be delisted")
