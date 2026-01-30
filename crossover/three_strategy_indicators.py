@@ -1,5 +1,5 @@
 import ta
-
+from vcp.calculate_atr import calculate_atr
 
 def strategy(df):
     # print("Running strategy 3")
@@ -37,12 +37,6 @@ def strategy(df):
     df["sell_signal"] = df["rsi_cross_below_80"] & df["rsi_cross_below_ma"]
     df.dropna(inplace=True)
     # Latest values
-    # ema20 = df["ema20"].iloc[-1]
-    # ema50 = df["ema50"].iloc[-1]
-    # ema4 = df["ema4"] = ta.trend.ema_indicator(df["Close"], 4)
-    # ema9 = df["ema9"] = ta.trend.ema_indicator(df["Close"], 9)
-    # ema100 = df["ema100"] = ta.trend.ema_indicator(df["Close"], 100)
-    # ema200 = df["ema200"] = ta.trend.ema_indicator(df["Close"], 200)
     ema4 = df["ema4"].iloc[-1]
     ema9 = df["ema9"].iloc[-1]
     ema20 = df["ema20"].iloc[-1]

@@ -1,15 +1,15 @@
 import time as t
 import logging
-from one_market_open import market_open
-from two_fetch import fetch_data
-from three_strategy_indicators import strategy
-from four_risk_mgmt import risk_ok
-from five_start_trade import state, can_trade
-import seven_log
-from five_one_stop_loss import get_stop_loss
+from crossover.one_market_open import market_open
+from vcp.two_fetch import fetch_data
+from crossover.three_strategy_indicators import strategy
+from crossover.four_risk_mgmt import risk_ok
+from crossover.five_start_trade import state, can_trade
+import server.other.seven_log as seven_log
+from server.other.five_one_stop_loss import get_stop_loss
 from datetime import datetime
 import pytz
-from symbols import ALL_SYMBOLS
+from all_symbols import ALL_SYMBOLS
 
 IST = pytz.timezone("Asia/Kolkata")
 SYMBOLS = ALL_SYMBOLS
@@ -94,14 +94,12 @@ def main():
                         logging.info(f"BUY {SYMBOL} @ {price} qty={qty}")
                         print(f"BUY ALERT → {SYMBOL}")
                         state[SYMBOL]["position"] = "LONG"
-                        state[SYMBOL] = True
                         state[SYMBOL]["qty"] = qty
                     else:
                         logging.warning(f"Risk failed for {SYMBOL}")
                 if signal == "SELL" and state.get(SYMBOL):
                     logging.info(f"SELL {SYMBOL} @ {price}")
-                    print("SELL ALERT")
-                    state[SYMBOL] = False
+                    print(f"SELL ALERTS ===> {SYMBOL} @ {price}")
                     state[SYMBOL]["position"] = "CLOSED"
             t.sleep(10)
         except Exception as e:

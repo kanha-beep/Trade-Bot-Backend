@@ -3,7 +3,7 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 
 try:
-    from five_start_trade import state
+    from server.crossover.five_start_trade import state
 except ImportError:
     state = {}
 

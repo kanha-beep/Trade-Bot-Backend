@@ -1,11 +1,11 @@
 import time as t
 import logging
-from one_market_open import market_open
-from two_fetch import fetch_data
-from three_strategy_indicators import strategy
-from four_risk_mgmt import risk_ok
-from five_start_trade import state, can_trade
-import seven_log
+from server.crossover.one_market_open import market_open
+from server.vcp.two_fetch import fetch_data
+from server.crossover.three_strategy_indicators import strategy
+from server.crossover.four_risk_mgmt import risk_ok
+from server.crossover.five_start_trade import state, can_trade
+import server.other.seven_log as seven_log
 from datetime import datetime
 import pytz
 
@@ -72,7 +72,6 @@ def bot():
                         print(f"TARGET HIT → {SYMBOL}")
                         logging.info(f"SELL {SYMBOL} TARGET @ {price}")
                         state[SYMBOL]["in_trade"] = False
-
                     # Profit booking (EMA-based trailing)
                     elif price > entry and df.ema9.iloc[-1] < df.ema20.iloc[-1]:
                         print(f"PROFIT BOOK → {SYMBOL}")

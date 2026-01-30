@@ -1,0 +1,1499 @@
+2026-01-12 00:32:00,667 INFO Bot started
+2026-01-12 00:32:00,667 INFO Bot started
+2026-01-12 00:32:03,761 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:32:04,208 ERROR HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: TATAMOTORS.NS"}}}
+2026-01-12 00:32:05,031 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:32:05,734 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:32:06,527 ERROR 
+2 Failed downloads:
+2026-01-12 00:32:06,534 ERROR HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: TATAMOTORS.NS"}}}
+2026-01-12 00:32:07,414 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:32:08,981 INFO Bot started
+2026-01-12 00:32:10,372 INFO Bot started
+2026-01-12 00:32:11,569 INFO Bot started
+2026-01-12 00:32:14,119 ERROR HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: TATAMOTORS.NS"}}}
+2026-01-12 00:32:14,327 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:32:14,719 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:32:15,779 ERROR HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: TATAMOTORS.NS"}}}
+2026-01-12 00:32:16,177 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:32:16,187 ERROR 
+2 Failed downloads:
+2026-01-12 00:32:16,187 ERROR ['TATAMOTORS.NS', 'ZOMATO.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:32:16,445 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:32:17,261 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:32:17,262 ERROR 'bool' object does not support item assignment
+2026-01-12 00:32:17,876 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:32:17,878 ERROR 
+2 Failed downloads:
+2026-01-12 00:32:17,878 ERROR ['TATAMOTORS.NS', 'ZOMATO.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:32:17,958 ERROR HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: TATAMOTORS.NS"}}}
+2026-01-12 00:32:18,428 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:32:18,428 ERROR 'bool' object does not support item assignment
+2026-01-12 00:32:18,551 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:32:18,561 ERROR 
+2 Failed downloads:
+2026-01-12 00:32:18,562 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:32:19,100 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:32:19,101 ERROR 'bool' object does not support item assignment
+2026-01-12 00:32:27,269 INFO Bot started
+2026-01-12 00:32:28,430 INFO Bot started
+2026-01-12 00:32:29,102 INFO Bot started
+2026-01-12 00:32:30,152 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:32:32,734 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:32:32,746 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:32:33,858 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:32:33,860 ERROR 
+2 Failed downloads:
+2026-01-12 00:32:33,860 ERROR ['TATAMOTORS.NS', 'ZOMATO.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:32:33,985 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:32:33,991 ERROR 
+2 Failed downloads:
+2026-01-12 00:32:33,991 ERROR ['TATAMOTORS.NS', 'ZOMATO.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:32:34,333 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:32:34,338 ERROR 
+2 Failed downloads:
+2026-01-12 00:32:34,338 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:32:34,710 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:32:34,710 ERROR 'bool' object does not support item assignment
+2026-01-12 00:32:34,784 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:32:34,785 ERROR 'bool' object does not support item assignment
+2026-01-12 00:32:35,043 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:32:35,044 ERROR 'bool' object does not support item assignment
+2026-01-12 00:32:44,712 INFO Bot started
+2026-01-12 00:32:44,785 INFO Bot started
+2026-01-12 00:32:45,045 INFO Bot started
+2026-01-12 00:32:46,017 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:32:48,809 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:32:49,054 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:32:50,098 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:32:50,101 ERROR 
+2 Failed downloads:
+2026-01-12 00:32:50,101 ERROR ['TATAMOTORS.NS', 'ZOMATO.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:32:50,104 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:32:50,112 ERROR 
+2 Failed downloads:
+2026-01-12 00:32:50,113 ERROR ['TATAMOTORS.NS', 'ZOMATO.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:32:50,212 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:32:50,233 ERROR 
+2 Failed downloads:
+2026-01-12 00:32:50,235 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:32:51,291 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:32:51,292 ERROR 'bool' object does not support item assignment
+2026-01-12 00:32:51,345 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:32:51,346 ERROR 'bool' object does not support item assignment
+2026-01-12 00:32:51,428 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:32:51,428 ERROR 'bool' object does not support item assignment
+2026-01-12 00:33:01,296 INFO Bot started
+2026-01-12 00:33:01,393 INFO Bot started
+2026-01-12 00:33:01,461 INFO Bot started
+2026-01-12 00:33:02,728 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:33:06,393 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:33:07,350 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:33:08,001 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:33:08,001 ERROR 
+2 Failed downloads:
+2026-01-12 00:33:08,003 ERROR ['TATAMOTORS.NS', 'ZOMATO.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:33:08,880 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:33:08,949 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:33:09,116 ERROR 
+2 Failed downloads:
+2026-01-12 00:33:09,116 ERROR ['TATAMOTORS.NS', 'ZOMATO.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:33:09,837 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:33:09,838 ERROR 'bool' object does not support item assignment
+2026-01-12 00:33:10,529 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:33:10,530 ERROR 'bool' object does not support item assignment
+2026-01-12 00:33:12,597 ERROR 
+2 Failed downloads:
+2026-01-12 00:33:12,597 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:33:13,758 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:33:13,758 ERROR 'bool' object does not support item assignment
+2026-01-12 00:33:19,840 INFO Bot started
+2026-01-12 00:33:20,531 INFO Bot started
+2026-01-12 00:33:23,568 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:33:23,760 INFO Bot started
+2026-01-12 00:33:24,058 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:33:24,555 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:33:24,680 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:33:24,681 ERROR 
+2 Failed downloads:
+2026-01-12 00:33:24,681 ERROR ['TATAMOTORS.NS', 'ZOMATO.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:33:25,230 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:33:25,231 ERROR 
+2 Failed downloads:
+2026-01-12 00:33:25,231 ERROR ['TATAMOTORS.NS', 'ZOMATO.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:33:26,705 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:33:26,708 ERROR 'bool' object does not support item assignment
+2026-01-12 00:33:27,408 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:33:27,408 ERROR 'bool' object does not support item assignment
+2026-01-12 00:33:29,237 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:33:29,245 ERROR 
+2 Failed downloads:
+2026-01-12 00:33:29,245 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:33:31,073 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:33:31,082 ERROR 'bool' object does not support item assignment
+2026-01-12 00:33:36,709 INFO Bot started
+2026-01-12 00:33:37,414 INFO Bot started
+2026-01-12 00:33:40,606 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:33:40,857 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:33:41,083 INFO Bot started
+2026-01-12 00:33:41,606 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:33:41,607 ERROR 
+2 Failed downloads:
+2026-01-12 00:33:41,607 ERROR ['TATAMOTORS.NS', 'ZOMATO.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:33:41,984 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:33:42,566 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:33:42,568 ERROR 
+2 Failed downloads:
+2026-01-12 00:33:42,569 ERROR ['TATAMOTORS.NS', 'ZOMATO.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:33:46,248 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:33:47,895 INFO Bot started
+2026-01-12 00:33:47,896 INFO Bot started
+2026-01-12 00:33:52,678 ERROR HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: TATAMOTORS.NS"}}}
+2026-01-12 00:33:52,681 INFO Bot started
+2026-01-12 00:33:52,695 ERROR HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: TATAMOTORS.NS"}}}
+2026-01-12 00:33:53,322 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:33:53,337 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:33:54,278 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:33:54,784 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:33:57,680 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:33:58,121 ERROR HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: TATAMOTORS.NS"}}}
+2026-01-12 00:33:59,378 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:33:59,382 ERROR 
+2 Failed downloads:
+2026-01-12 00:33:59,382 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:33:59,932 INFO Bot started
+2026-01-12 00:34:00,174 INFO Bot started
+2026-01-12 00:34:00,546 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:34:03,982 ERROR HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: TATAMOTORS.NS"}}}
+2026-01-12 00:34:04,690 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:34:05,575 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:34:06,407 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:34:07,219 ERROR HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: TATAMOTORS.NS"}}}
+2026-01-12 00:34:07,789 ERROR 
+2 Failed downloads:
+2026-01-12 00:34:07,789 ERROR ['TATAMOTORS.NS', 'ZOMATO.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:34:07,849 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:34:08,705 ERROR 
+2 Failed downloads:
+2026-01-12 00:34:08,705 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:34:08,996 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:34:09,669 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:34:11,112 INFO Bot started
+2026-01-12 00:34:14,351 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:34:15,414 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:34:15,419 ERROR 
+2 Failed downloads:
+2026-01-12 00:34:15,419 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:34:16,630 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:34:19,794 INFO Bot started
+2026-01-12 00:34:20,435 INFO Bot started
+2026-01-12 00:34:21,022 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:34:22,103 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:34:22,669 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:34:24,066 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:34:24,896 ERROR 
+2 Failed downloads:
+2026-01-12 00:34:24,896 ERROR ['TATAMOTORS.NS', 'ZOMATO.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:34:25,175 ERROR 
+2 Failed downloads:
+2026-01-12 00:34:25,175 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:34:25,699 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:34:25,947 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:34:27,176 INFO Bot started
+2026-01-12 00:34:30,864 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:34:31,832 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:34:31,840 ERROR 
+2 Failed downloads:
+2026-01-12 00:34:31,840 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:34:33,867 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:34:36,676 INFO Bot started
+2026-01-12 00:34:37,286 INFO Bot started
+2026-01-12 00:34:39,170 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:34:40,121 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:34:41,842 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:34:43,138 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:34:45,296 ERROR 
+2 Failed downloads:
+2026-01-12 00:34:45,297 ERROR ['TATAMOTORS.NS', 'ZOMATO.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:34:45,317 INFO Bot started
+2026-01-12 00:34:45,722 ERROR 
+2 Failed downloads:
+2026-01-12 00:34:45,722 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:34:47,241 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:34:47,351 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:34:49,374 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:34:50,287 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:34:50,523 ERROR 
+2 Failed downloads:
+2026-01-12 00:34:50,523 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:34:51,723 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:34:58,405 INFO Bot started
+2026-01-12 00:34:58,475 INFO Bot started
+2026-01-12 00:35:00,589 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:35:00,932 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:35:02,380 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:35:02,497 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:35:02,862 INFO Bot started
+2026-01-12 00:35:04,542 ERROR 
+2 Failed downloads:
+2026-01-12 00:35:04,542 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:35:04,559 ERROR 
+2 Failed downloads:
+2026-01-12 00:35:04,559 ERROR ['TATAMOTORS.NS', 'ZOMATO.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:35:05,998 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:35:06,006 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:35:06,472 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:35:07,688 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:35:07,691 ERROR 
+2 Failed downloads:
+2026-01-12 00:35:07,691 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:35:08,626 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:35:17,111 INFO Bot started
+2026-01-12 00:35:17,149 INFO Bot started
+2026-01-12 00:35:18,565 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:35:18,980 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:35:19,245 INFO Bot started
+2026-01-12 00:35:20,334 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:35:21,285 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:35:22,828 ERROR 
+2 Failed downloads:
+2026-01-12 00:35:22,830 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:35:22,866 ERROR 
+2 Failed downloads:
+2026-01-12 00:35:22,866 ERROR ['TATAMOTORS.NS', 'ZOMATO.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:35:23,550 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:35:24,196 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:35:24,275 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:35:24,376 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:35:24,788 ERROR 
+2 Failed downloads:
+2026-01-12 00:35:24,788 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:35:25,443 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:35:34,870 INFO Bot started
+2026-01-12 00:35:34,888 INFO Bot started
+2026-01-12 00:35:35,886 INFO Bot started
+2026-01-12 00:35:36,046 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:35:36,953 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:35:39,053 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:35:40,503 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:35:41,308 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:35:41,474 ERROR 
+2 Failed downloads:
+2026-01-12 00:35:41,474 ERROR ['TATAMOTORS.NS', 'ZOMATO.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:35:42,152 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:35:42,155 ERROR 
+2 Failed downloads:
+2026-01-12 00:35:42,155 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:35:42,331 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:35:42,416 ERROR 
+2 Failed downloads:
+2026-01-12 00:35:42,416 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:35:43,167 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:35:43,583 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:35:53,185 INFO Bot started
+2026-01-12 00:35:54,160 INFO Bot started
+2026-01-12 00:35:54,493 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:35:54,509 INFO Bot started
+2026-01-12 00:35:55,857 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:35:56,795 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:35:59,619 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:36:00,562 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:36:01,134 ERROR 
+2 Failed downloads:
+2026-01-12 00:36:01,134 ERROR ['TATAMOTORS.NS', 'ZOMATO.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:36:01,180 ERROR 
+2 Failed downloads:
+2026-01-12 00:36:01,180 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:36:01,529 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:36:01,537 ERROR 
+2 Failed downloads:
+2026-01-12 00:36:01,537 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:36:02,259 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:36:02,320 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:36:02,658 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:36:13,303 INFO Bot started
+2026-01-12 00:36:13,327 INFO Bot started
+2026-01-12 00:36:13,687 INFO Bot started
+2026-01-12 00:36:15,017 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:36:15,370 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:36:16,953 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:36:17,838 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:36:18,764 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:36:19,461 ERROR 
+2 Failed downloads:
+2026-01-12 00:36:19,461 ERROR ['TATAMOTORS.NS', 'ZOMATO.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:36:19,522 ERROR 
+2 Failed downloads:
+2026-01-12 00:36:19,522 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:36:19,614 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:36:19,617 ERROR 
+2 Failed downloads:
+2026-01-12 00:36:19,617 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:36:20,339 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:36:20,521 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:36:20,700 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:36:31,204 INFO Bot started
+2026-01-12 00:36:31,355 INFO Bot started
+2026-01-12 00:36:31,519 INFO Bot started
+2026-01-12 00:36:33,189 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:36:33,348 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:36:34,726 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:36:35,227 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:36:35,668 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:36:36,718 ERROR 
+2 Failed downloads:
+2026-01-12 00:36:36,718 ERROR ['TATAMOTORS.NS', 'ZOMATO.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:36:36,750 ERROR 
+2 Failed downloads:
+2026-01-12 00:36:36,750 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:36:37,059 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:36:37,066 ERROR 
+2 Failed downloads:
+2026-01-12 00:36:37,066 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:36:37,435 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:36:37,458 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:36:37,829 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:36:48,070 INFO Bot started
+2026-01-12 00:36:48,083 INFO Bot started
+2026-01-12 00:36:48,443 INFO Bot started
+2026-01-12 00:36:49,636 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:36:49,743 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:36:51,391 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:36:51,926 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:36:52,472 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:36:53,410 ERROR 
+2 Failed downloads:
+2026-01-12 00:36:53,410 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:36:53,545 ERROR 
+2 Failed downloads:
+2026-01-12 00:36:53,545 ERROR ['TATAMOTORS.NS', 'ZOMATO.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:36:53,663 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:36:53,914 ERROR 
+2 Failed downloads:
+2026-01-12 00:36:53,914 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:36:54,244 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:36:54,345 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:36:54,708 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:37:04,837 INFO Bot started
+2026-01-12 00:37:04,992 INFO Bot started
+2026-01-12 00:37:05,240 INFO Bot started
+2026-01-12 00:37:06,488 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:37:06,822 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:37:09,257 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:37:09,525 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:37:10,302 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:37:11,155 ERROR 
+2 Failed downloads:
+2026-01-12 00:37:11,156 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:37:11,411 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:37:11,541 ERROR 
+2 Failed downloads:
+2026-01-12 00:37:11,541 ERROR ['TATAMOTORS.NS', 'ZOMATO.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:37:11,649 ERROR 
+2 Failed downloads:
+2026-01-12 00:37:11,649 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:37:12,025 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:37:12,395 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:37:12,542 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:37:22,744 INFO Bot started
+2026-01-12 00:37:23,036 INFO Bot started
+2026-01-12 00:37:23,201 INFO Bot started
+2026-01-12 00:37:24,450 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:37:25,378 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:37:26,201 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:37:27,420 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:37:27,877 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:37:28,459 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:37:28,659 ERROR 
+2 Failed downloads:
+2026-01-12 00:37:28,659 ERROR ['TATAMOTORS.NS', 'ZOMATO.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:37:29,206 ERROR 
+2 Failed downloads:
+2026-01-12 00:37:29,206 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:37:29,537 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:37:30,075 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:37:31,224 ERROR 
+2 Failed downloads:
+2026-01-12 00:37:31,224 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:37:32,062 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:37:40,283 INFO Bot started
+2026-01-12 00:37:40,646 INFO Bot started
+2026-01-12 00:37:41,618 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:37:42,237 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:37:42,546 INFO Bot started
+2026-01-12 00:37:43,023 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:37:44,317 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:37:45,337 ERROR 
+2 Failed downloads:
+2026-01-12 00:37:45,337 ERROR ['TATAMOTORS.NS', 'ZOMATO.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:37:45,873 ERROR 
+2 Failed downloads:
+2026-01-12 00:37:45,873 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:37:46,218 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:37:46,466 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:37:46,615 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:37:47,555 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:37:47,560 ERROR 
+2 Failed downloads:
+2026-01-12 00:37:47,561 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:37:48,139 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:37:56,807 INFO Bot started
+2026-01-12 00:37:57,176 INFO Bot started
+2026-01-12 00:37:58,381 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:37:58,513 INFO Bot started
+2026-01-12 00:37:58,645 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:38:00,206 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:38:00,769 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:38:02,028 ERROR 
+2 Failed downloads:
+2026-01-12 00:38:02,029 ERROR ['TATAMOTORS.NS', 'ZOMATO.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:38:02,070 ERROR 
+2 Failed downloads:
+2026-01-12 00:38:02,070 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:38:02,414 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:38:02,902 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:38:02,918 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:38:03,604 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:38:03,609 ERROR 
+2 Failed downloads:
+2026-01-12 00:38:03,609 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:38:04,365 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:38:13,685 INFO Bot started
+2026-01-12 00:38:13,727 INFO Bot started
+2026-01-12 00:38:14,896 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:38:14,924 INFO Bot started
+2026-01-12 00:38:15,226 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:38:16,754 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:38:17,691 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:38:19,388 ERROR 
+2 Failed downloads:
+2026-01-12 00:38:19,388 ERROR ['TATAMOTORS.NS', 'ZOMATO.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:38:19,394 ERROR 
+2 Failed downloads:
+2026-01-12 00:38:19,394 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:38:19,765 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:38:20,373 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:38:20,383 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:38:20,588 ERROR 
+2 Failed downloads:
+2026-01-12 00:38:20,589 ERROR ['ZOMATO.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:38:20,589 ERROR ['TATAMOTORS.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:38:21,517 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:38:31,227 INFO Bot started
+2026-01-12 00:38:31,260 INFO Bot started
+2026-01-12 00:38:32,082 INFO Bot started
+2026-01-12 00:38:35,226 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:38:36,279 ERROR 
+2 Failed downloads:
+2026-01-12 00:38:36,280 ERROR ['ZOMATO.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:38:36,280 ERROR ['TATAMOTORS.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:38:36,361 ERROR 
+2 Failed downloads:
+2026-01-12 00:38:36,361 ERROR ['TATAMOTORS.NS', 'ZOMATO.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:38:36,526 ERROR 
+2 Failed downloads:
+2026-01-12 00:38:36,527 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:38:36,989 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:38:37,105 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:38:37,233 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:38:47,676 INFO Bot started
+2026-01-12 00:38:47,767 INFO Bot started
+2026-01-12 00:38:47,918 INFO Bot started
+2026-01-12 00:38:52,354 ERROR 
+2 Failed downloads:
+2026-01-12 00:38:52,354 ERROR ['TATAMOTORS.NS', 'ZOMATO.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:38:52,375 ERROR 
+2 Failed downloads:
+2026-01-12 00:38:52,375 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:38:52,473 ERROR 
+2 Failed downloads:
+2026-01-12 00:38:52,473 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:38:53,226 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:38:53,319 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:38:53,330 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:39:03,966 INFO Bot started
+2026-01-12 00:39:04,031 INFO Bot started
+2026-01-12 00:39:04,048 INFO Bot started
+2026-01-12 00:39:09,540 ERROR 
+2 Failed downloads:
+2026-01-12 00:39:09,540 ERROR ['TATAMOTORS.NS', 'ZOMATO.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:39:09,550 ERROR 
+2 Failed downloads:
+2026-01-12 00:39:09,550 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:39:09,561 ERROR 
+2 Failed downloads:
+2026-01-12 00:39:09,561 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:39:10,255 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:39:10,343 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:39:10,352 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:39:20,937 INFO Bot started
+2026-01-12 00:39:20,999 INFO Bot started
+2026-01-12 00:39:21,018 INFO Bot started
+2026-01-12 00:39:23,262 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:39:26,239 ERROR 
+2 Failed downloads:
+2026-01-12 00:39:26,239 ERROR ['TATAMOTORS.NS', 'ZOMATO.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:39:26,434 ERROR 
+2 Failed downloads:
+2026-01-12 00:39:26,435 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:39:26,640 ERROR 
+2 Failed downloads:
+2026-01-12 00:39:26,640 ERROR ['ZOMATO.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:39:26,640 ERROR ['TATAMOTORS.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:39:26,881 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:39:27,232 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:39:27,378 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:39:37,473 INFO Bot started
+2026-01-12 00:39:37,791 INFO Bot started
+2026-01-12 00:39:37,864 INFO Bot started
+2026-01-12 00:39:42,034 ERROR 
+2 Failed downloads:
+2026-01-12 00:39:42,034 ERROR ['TATAMOTORS.NS', 'ZOMATO.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:39:42,198 ERROR 
+2 Failed downloads:
+2026-01-12 00:39:42,198 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:39:42,525 ERROR 
+2 Failed downloads:
+2026-01-12 00:39:42,525 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:39:42,793 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:39:42,871 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:39:43,268 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:39:53,484 INFO Bot started
+2026-01-12 00:39:53,555 INFO Bot started
+2026-01-12 00:39:53,923 INFO Bot started
+2026-01-12 00:40:00,227 ERROR 
+2 Failed downloads:
+2026-01-12 00:40:00,227 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:40:00,270 ERROR 
+2 Failed downloads:
+2026-01-12 00:40:00,270 ERROR ['TATAMOTORS.NS', 'ZOMATO.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:40:00,594 ERROR 
+2 Failed downloads:
+2026-01-12 00:40:00,594 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:40:00,951 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:40:01,022 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:40:01,308 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:40:11,575 INFO Bot started
+2026-01-12 00:40:11,634 INFO Bot started
+2026-01-12 00:40:11,805 INFO Bot started
+2026-01-12 00:40:16,380 ERROR 
+2 Failed downloads:
+2026-01-12 00:40:16,380 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:40:16,418 ERROR 
+2 Failed downloads:
+2026-01-12 00:40:16,418 ERROR ['TATAMOTORS.NS', 'ZOMATO.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:40:16,544 ERROR 
+2 Failed downloads:
+2026-01-12 00:40:16,544 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:40:17,066 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:40:17,092 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:40:17,321 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:40:27,682 INFO Bot started
+2026-01-12 00:40:27,724 INFO Bot started
+2026-01-12 00:40:27,864 INFO Bot started
+2026-01-12 00:40:32,253 ERROR 
+2 Failed downloads:
+2026-01-12 00:40:32,253 ERROR ['TATAMOTORS.NS', 'ZOMATO.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:40:32,626 ERROR 
+2 Failed downloads:
+2026-01-12 00:40:32,626 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:40:32,879 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:40:32,954 ERROR 
+2 Failed downloads:
+2026-01-12 00:40:32,954 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:40:33,368 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:40:33,750 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:40:43,570 INFO Bot started
+2026-01-12 00:40:44,011 INFO Bot started
+2026-01-12 00:40:44,316 INFO Bot started
+2026-01-12 00:40:49,635 ERROR 
+2 Failed downloads:
+2026-01-12 00:40:49,637 ERROR ['TATAMOTORS.NS', 'ZOMATO.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:40:49,822 ERROR 
+2 Failed downloads:
+2026-01-12 00:40:49,822 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:40:49,929 ERROR 
+2 Failed downloads:
+2026-01-12 00:40:49,929 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:40:50,318 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:40:50,520 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:40:50,699 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:41:00,926 INFO Bot started
+2026-01-12 00:41:01,142 INFO Bot started
+2026-01-12 00:41:01,292 INFO Bot started
+2026-01-12 00:41:02,963 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:41:06,019 ERROR 
+2 Failed downloads:
+2026-01-12 00:41:06,019 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:41:06,028 ERROR 
+2 Failed downloads:
+2026-01-12 00:41:06,028 ERROR ['TATAMOTORS.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:41:06,028 ERROR ['ZOMATO.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:41:06,626 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:41:06,660 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:41:07,076 ERROR 
+2 Failed downloads:
+2026-01-12 00:41:07,076 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:41:07,529 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:41:17,117 INFO Bot started
+2026-01-12 00:41:17,141 INFO Bot started
+2026-01-12 00:41:17,952 INFO Bot started
+2026-01-12 00:41:21,383 ERROR 
+2 Failed downloads:
+2026-01-12 00:41:21,383 ERROR ['TATAMOTORS.NS', 'ZOMATO.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:41:21,551 ERROR 
+2 Failed downloads:
+2026-01-12 00:41:21,551 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:41:22,095 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:41:22,301 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:41:22,924 ERROR 
+2 Failed downloads:
+2026-01-12 00:41:22,924 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:41:23,460 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:41:32,664 INFO Bot started
+2026-01-12 00:41:32,776 INFO Bot started
+2026-01-12 00:41:34,026 INFO Bot started
+2026-01-12 00:41:39,049 ERROR 
+2 Failed downloads:
+2026-01-12 00:41:39,049 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:41:39,279 ERROR 
+2 Failed downloads:
+2026-01-12 00:41:39,279 ERROR ['TATAMOTORS.NS', 'ZOMATO.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:41:39,840 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:41:40,066 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:41:40,476 ERROR 
+2 Failed downloads:
+2026-01-12 00:41:40,477 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:41:40,998 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:41:50,453 INFO Bot started
+2026-01-12 00:41:50,696 INFO Bot started
+2026-01-12 00:41:51,435 INFO Bot started
+2026-01-12 00:41:54,895 ERROR 
+2 Failed downloads:
+2026-01-12 00:41:54,895 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:41:55,109 ERROR 
+2 Failed downloads:
+2026-01-12 00:41:55,109 ERROR ['TATAMOTORS.NS', 'ZOMATO.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:41:55,813 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:41:55,815 ERROR 
+2 Failed downloads:
+2026-01-12 00:41:55,815 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:41:56,031 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:41:56,603 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:42:06,445 INFO Bot started
+2026-01-12 00:42:06,593 INFO Bot started
+2026-01-12 00:42:07,031 INFO Bot started
+2026-01-12 00:42:12,190 ERROR 
+2 Failed downloads:
+2026-01-12 00:42:12,191 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:42:12,222 ERROR 
+2 Failed downloads:
+2026-01-12 00:42:12,223 ERROR ['TATAMOTORS.NS', 'ZOMATO.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:42:12,746 ERROR 
+2 Failed downloads:
+2026-01-12 00:42:12,746 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:42:12,957 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:42:12,995 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:42:13,561 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:42:23,651 INFO Bot started
+2026-01-12 00:42:23,678 INFO Bot started
+2026-01-12 00:42:24,148 INFO Bot started
+2026-01-12 00:42:29,432 ERROR 
+2 Failed downloads:
+2026-01-12 00:42:29,432 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:42:29,880 ERROR 
+2 Failed downloads:
+2026-01-12 00:42:29,881 ERROR ['TATAMOTORS.NS', 'ZOMATO.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:42:30,017 ERROR 
+2 Failed downloads:
+2026-01-12 00:42:30,017 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:42:30,100 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:42:30,668 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:42:30,771 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:42:40,742 INFO Bot started
+2026-01-12 00:42:41,205 INFO Bot started
+2026-01-12 00:42:41,284 INFO Bot started
+2026-01-12 00:42:45,100 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:42:45,220 ERROR 
+2 Failed downloads:
+2026-01-12 00:42:45,220 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:42:45,530 ERROR 
+2 Failed downloads:
+2026-01-12 00:42:45,530 ERROR ['TATAMOTORS.NS', 'ZOMATO.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:42:45,940 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:42:46,076 ERROR 
+2 Failed downloads:
+2026-01-12 00:42:46,076 ERROR ['ZOMATO.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:42:46,076 ERROR ['TATAMOTORS.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:42:46,295 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:42:46,767 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:42:56,513 INFO Bot started
+2026-01-12 00:42:56,789 INFO Bot started
+2026-01-12 00:42:57,186 INFO Bot started
+2026-01-12 00:42:58,312 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:43:01,237 ERROR 
+2 Failed downloads:
+2026-01-12 00:43:01,237 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:43:01,652 ERROR 
+2 Failed downloads:
+2026-01-12 00:43:01,652 ERROR ['TATAMOTORS.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:43:01,652 ERROR ['ZOMATO.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:43:01,664 ERROR 
+2 Failed downloads:
+2026-01-12 00:43:01,664 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:43:02,154 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:43:02,459 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:43:02,467 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:43:12,820 INFO Bot started
+2026-01-12 00:43:13,053 INFO Bot started
+2026-01-12 00:43:13,065 INFO Bot started
+2026-01-12 00:43:18,014 ERROR 
+2 Failed downloads:
+2026-01-12 00:43:18,014 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:43:18,217 ERROR 
+2 Failed downloads:
+2026-01-12 00:43:18,217 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:43:18,601 ERROR 
+2 Failed downloads:
+2026-01-12 00:43:18,601 ERROR ['TATAMOTORS.NS', 'ZOMATO.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:43:18,742 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:43:18,903 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:43:19,422 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:43:29,383 INFO Bot started
+2026-01-12 00:43:29,588 INFO Bot started
+2026-01-12 00:43:29,938 INFO Bot started
+2026-01-12 00:43:35,018 ERROR 
+2 Failed downloads:
+2026-01-12 00:43:35,018 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:43:35,226 ERROR 
+2 Failed downloads:
+2026-01-12 00:43:35,226 ERROR ['TATAMOTORS.NS', 'ZOMATO.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:43:35,340 ERROR 
+2 Failed downloads:
+2026-01-12 00:43:35,340 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:43:35,707 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:43:35,952 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:43:36,113 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:43:46,315 INFO Bot started
+2026-01-12 00:43:46,570 INFO Bot started
+2026-01-12 00:43:46,730 INFO Bot started
+2026-01-12 00:43:51,302 ERROR 
+2 Failed downloads:
+2026-01-12 00:43:51,302 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:43:51,443 ERROR 
+2 Failed downloads:
+2026-01-12 00:43:51,443 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:43:51,524 ERROR 
+2 Failed downloads:
+2026-01-12 00:43:51,524 ERROR ['TATAMOTORS.NS', 'ZOMATO.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:43:51,947 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:43:52,244 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:43:52,264 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:44:02,562 INFO Bot started
+2026-01-12 00:44:02,833 INFO Bot started
+2026-01-12 00:44:02,875 INFO Bot started
+2026-01-12 00:44:08,690 ERROR 
+2 Failed downloads:
+2026-01-12 00:44:08,690 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:44:09,020 ERROR 
+2 Failed downloads:
+2026-01-12 00:44:09,020 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:44:09,077 ERROR 
+2 Failed downloads:
+2026-01-12 00:44:09,077 ERROR ['TATAMOTORS.NS', 'ZOMATO.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:44:09,414 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:44:09,765 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:44:09,920 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:44:20,039 INFO Bot started
+2026-01-12 00:44:20,365 INFO Bot started
+2026-01-12 00:44:20,475 INFO Bot started
+2026-01-12 00:44:25,360 ERROR 
+2 Failed downloads:
+2026-01-12 00:44:25,360 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:44:25,373 ERROR 
+2 Failed downloads:
+2026-01-12 00:44:25,373 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:44:26,109 ERROR 
+2 Failed downloads:
+2026-01-12 00:44:26,109 ERROR ['TATAMOTORS.NS', 'ZOMATO.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:44:26,174 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:44:26,283 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:44:26,924 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:44:36,830 INFO Bot started
+2026-01-12 00:44:36,950 INFO Bot started
+2026-01-12 00:44:37,426 INFO Bot started
+2026-01-12 00:44:42,017 ERROR 
+2 Failed downloads:
+2026-01-12 00:44:42,017 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:44:42,129 ERROR 
+2 Failed downloads:
+2026-01-12 00:44:42,130 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:44:42,719 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:44:42,734 ERROR 
+2 Failed downloads:
+2026-01-12 00:44:42,734 ERROR ['TATAMOTORS.NS', 'ZOMATO.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:44:42,861 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:44:43,619 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:44:53,386 INFO Bot started
+2026-01-12 00:44:53,563 INFO Bot started
+2026-01-12 00:44:54,210 INFO Bot started
+2026-01-12 00:44:57,887 ERROR 
+2 Failed downloads:
+2026-01-12 00:44:57,887 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:44:58,277 ERROR 
+2 Failed downloads:
+2026-01-12 00:44:58,277 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:44:58,645 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:44:59,022 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:44:59,287 ERROR 
+2 Failed downloads:
+2026-01-12 00:44:59,287 ERROR ['TATAMOTORS.NS', 'ZOMATO.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:44:59,964 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:45:09,274 INFO Bot started
+2026-01-12 00:45:09,618 INFO Bot started
+2026-01-12 00:45:10,397 INFO Bot started
+2026-01-12 00:45:11,168 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:45:14,086 ERROR 
+2 Failed downloads:
+2026-01-12 00:45:14,086 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:45:14,467 ERROR 
+2 Failed downloads:
+2026-01-12 00:45:14,467 ERROR ['ZOMATO.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:45:14,467 ERROR ['TATAMOTORS.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:45:14,877 ERROR 
+2 Failed downloads:
+2026-01-12 00:45:14,878 ERROR ['TATAMOTORS.NS', 'ZOMATO.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:45:15,040 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:45:15,259 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:45:15,706 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:45:25,725 INFO Bot started
+2026-01-12 00:45:25,941 INFO Bot started
+2026-01-12 00:45:26,308 INFO Bot started
+2026-01-12 00:45:30,910 ERROR 
+2 Failed downloads:
+2026-01-12 00:45:30,910 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:45:31,312 ERROR 
+2 Failed downloads:
+2026-01-12 00:45:31,312 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:45:31,605 ERROR 
+2 Failed downloads:
+2026-01-12 00:45:31,605 ERROR ['TATAMOTORS.NS', 'ZOMATO.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:45:31,632 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:45:32,030 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:45:32,379 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:45:42,326 INFO Bot started
+2026-01-12 00:45:42,702 INFO Bot started
+2026-01-12 00:45:42,923 INFO Bot started
+2026-01-12 00:45:48,271 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:45:49,135 ERROR 
+2 Failed downloads:
+2026-01-12 00:45:49,135 ERROR ['ZOMATO.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:45:49,135 ERROR ['TATAMOTORS.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:45:49,576 ERROR 
+2 Failed downloads:
+2026-01-12 00:45:49,576 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:45:49,728 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:45:50,170 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:45:54,576 ERROR 
+2 Failed downloads:
+2026-01-12 00:45:54,577 ERROR ['TATAMOTORS.NS', 'ZOMATO.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:45:55,045 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:46:00,239 INFO Bot started
+2026-01-12 00:46:00,603 INFO Bot started
+2026-01-12 00:46:05,405 INFO Bot started
+2026-01-12 00:46:07,164 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:46:08,480 ERROR 
+2 Failed downloads:
+2026-01-12 00:46:08,480 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:46:08,804 ERROR 
+2 Failed downloads:
+2026-01-12 00:46:08,804 ERROR ['ZOMATO.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:46:08,804 ERROR ['TATAMOTORS.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:46:09,137 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:46:09,520 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:46:10,563 ERROR 
+2 Failed downloads:
+2026-01-12 00:46:10,563 ERROR ['TATAMOTORS.NS', 'ZOMATO.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:46:11,090 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:46:19,795 INFO Bot started
+2026-01-12 00:46:20,116 INFO Bot started
+2026-01-12 00:46:21,474 INFO Bot started
+2026-01-12 00:46:24,387 ERROR 
+2 Failed downloads:
+2026-01-12 00:46:24,387 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:46:24,766 ERROR 
+2 Failed downloads:
+2026-01-12 00:46:24,766 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:46:25,541 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:46:25,828 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:46:26,278 ERROR 
+2 Failed downloads:
+2026-01-12 00:46:26,278 ERROR ['TATAMOTORS.NS', 'ZOMATO.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:46:26,996 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:46:36,285 INFO Bot started
+2026-01-12 00:46:36,518 INFO Bot started
+2026-01-12 00:46:37,431 INFO Bot started
+2026-01-12 00:46:42,324 ERROR 
+2 Failed downloads:
+2026-01-12 00:46:42,324 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:46:43,015 ERROR 
+2 Failed downloads:
+2026-01-12 00:46:43,015 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:46:43,215 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:46:43,790 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:46:43,998 ERROR 
+2 Failed downloads:
+2026-01-12 00:46:43,998 ERROR ['TATAMOTORS.NS', 'ZOMATO.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:46:44,687 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:46:53,892 INFO Bot started
+2026-01-12 00:46:54,391 INFO Bot started
+2026-01-12 00:46:55,167 INFO Bot started
+2026-01-12 00:46:59,430 ERROR 
+2 Failed downloads:
+2026-01-12 00:46:59,430 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:47:00,245 ERROR 
+2 Failed downloads:
+2026-01-12 00:47:00,245 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:47:00,420 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:47:00,803 ERROR 
+2 Failed downloads:
+2026-01-12 00:47:00,803 ERROR ['TATAMOTORS.NS', 'ZOMATO.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:47:01,034 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:47:01,493 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:47:11,078 INFO Bot started
+2026-01-12 00:47:11,570 INFO Bot started
+2026-01-12 00:47:12,029 INFO Bot started
+2026-01-12 00:47:15,812 ERROR 
+2 Failed downloads:
+2026-01-12 00:47:15,812 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:47:16,564 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:47:16,597 ERROR 
+2 Failed downloads:
+2026-01-12 00:47:16,597 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:47:17,032 ERROR 
+2 Failed downloads:
+2026-01-12 00:47:17,032 ERROR ['TATAMOTORS.NS', 'ZOMATO.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:47:17,353 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:47:17,693 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:47:27,225 INFO Bot started
+2026-01-12 00:47:27,905 INFO Bot started
+2026-01-12 00:47:28,191 INFO Bot started
+2026-01-12 00:47:32,418 ERROR 
+2 Failed downloads:
+2026-01-12 00:47:32,418 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:47:33,133 ERROR 
+2 Failed downloads:
+2026-01-12 00:47:33,133 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:47:33,235 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:47:33,438 ERROR 
+2 Failed downloads:
+2026-01-12 00:47:33,439 ERROR ['TATAMOTORS.NS', 'ZOMATO.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:47:33,890 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:47:34,253 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:47:43,837 INFO Bot started
+2026-01-12 00:47:44,631 INFO Bot started
+2026-01-12 00:47:44,879 INFO Bot started
+2026-01-12 00:47:48,688 ERROR 
+2 Failed downloads:
+2026-01-12 00:47:48,688 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:47:49,563 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:47:49,944 ERROR 
+2 Failed downloads:
+2026-01-12 00:47:49,944 ERROR ['TATAMOTORS.NS', 'ZOMATO.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:47:49,977 ERROR 
+2 Failed downloads:
+2026-01-12 00:47:49,977 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:47:50,630 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:47:50,675 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:48:00,125 INFO Bot started
+2026-01-12 00:48:01,197 INFO Bot started
+2026-01-12 00:48:01,250 INFO Bot started
+2026-01-12 00:48:02,732 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:48:04,694 ERROR 
+2 Failed downloads:
+2026-01-12 00:48:04,694 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:48:05,634 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:48:05,778 ERROR 
+2 Failed downloads:
+2026-01-12 00:48:05,779 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:48:05,930 ERROR 
+2 Failed downloads:
+2026-01-12 00:48:05,930 ERROR ['TATAMOTORS.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:48:05,930 ERROR ['ZOMATO.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:48:06,474 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:48:06,645 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:48:16,222 INFO Bot started
+2026-01-12 00:48:17,045 INFO Bot started
+2026-01-12 00:48:17,134 INFO Bot started
+2026-01-12 00:48:21,450 ERROR 
+2 Failed downloads:
+2026-01-12 00:48:21,450 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:48:22,315 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:48:22,373 ERROR 
+2 Failed downloads:
+2026-01-12 00:48:22,373 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:48:22,520 ERROR 
+2 Failed downloads:
+2026-01-12 00:48:22,520 ERROR ['TATAMOTORS.NS', 'ZOMATO.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:48:23,072 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:48:23,255 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:48:32,915 INFO Bot started
+2026-01-12 00:48:33,718 INFO Bot started
+2026-01-12 00:48:33,893 INFO Bot started
+2026-01-12 00:48:39,245 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:48:39,697 ERROR 
+2 Failed downloads:
+2026-01-12 00:48:39,697 ERROR ['ZOMATO.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:48:39,697 ERROR ['TATAMOTORS.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 00:48:40,151 ERROR 
+2 Failed downloads:
+2026-01-12 00:48:40,151 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:48:40,460 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:48:40,479 ERROR 
+2 Failed downloads:
+2026-01-12 00:48:40,479 ERROR ['TATAMOTORS.NS', 'ZOMATO.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:48:40,976 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:48:41,310 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:48:51,111 INFO Bot started
+2026-01-12 00:48:51,613 INFO Bot started
+2026-01-12 00:48:51,897 INFO Bot started
+2026-01-12 00:48:56,279 ERROR 
+2 Failed downloads:
+2026-01-12 00:48:56,280 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:48:56,887 ERROR 
+2 Failed downloads:
+2026-01-12 00:48:56,887 ERROR ['TATAMOTORS.NS', 'ZOMATO.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:48:56,978 ERROR 
+2 Failed downloads:
+2026-01-12 00:48:56,978 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 00:48:57,626 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 00:48:58,055 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 01:01:08,990 INFO Bot started
+2026-01-12 01:01:11,699 ERROR HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: TATAMOTORS.NS"}}}
+2026-01-12 01:01:12,336 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:01:15,137 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:01:15,138 ERROR 
+3 Failed downloads:
+2026-01-12 01:01:15,138 ERROR ['ICICIPRULI.NS']: YFRateLimitError('Too Many Requests. Rate limited. Try after a while.')
+2026-01-12 01:01:15,138 ERROR ['TATAMOTORS.NS', 'ZOMATO.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:01:15,848 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 01:01:26,305 INFO Bot started
+2026-01-12 01:01:27,824 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:01:30,153 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:01:30,636 ERROR 
+2 Failed downloads:
+2026-01-12 01:01:30,636 ERROR ['TATAMOTORS.NS', 'ZOMATO.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:01:31,467 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 01:01:41,928 INFO Bot started
+2026-01-12 01:01:43,620 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:01:46,063 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:01:46,362 ERROR 
+2 Failed downloads:
+2026-01-12 01:01:46,362 ERROR ['TATAMOTORS.NS', 'ZOMATO.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:01:46,867 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 01:01:57,675 INFO Bot started
+2026-01-12 01:01:59,441 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:02:01,999 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:02:02,435 ERROR 
+2 Failed downloads:
+2026-01-12 01:02:02,436 ERROR ['TATAMOTORS.NS', 'ZOMATO.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:02:02,995 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 01:02:13,389 INFO Bot started
+2026-01-12 01:02:15,068 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:02:17,656 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:02:17,974 ERROR 
+2 Failed downloads:
+2026-01-12 01:02:17,974 ERROR ['TATAMOTORS.NS', 'ZOMATO.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:02:18,743 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 01:02:29,507 INFO Bot started
+2026-01-12 01:02:31,164 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:02:33,788 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:02:34,089 ERROR 
+2 Failed downloads:
+2026-01-12 01:02:34,089 ERROR ['TATAMOTORS.NS', 'ZOMATO.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:02:34,624 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 01:02:43,117 INFO Bot started
+2026-01-12 01:02:46,310 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:02:48,279 ERROR HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: TATAMOTORS.NS"}}}
+2026-01-12 01:02:48,953 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:02:49,580 ERROR 
+2 Failed downloads:
+2026-01-12 01:02:49,580 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:02:50,268 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 01:03:00,911 INFO Bot started
+2026-01-12 01:03:02,664 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:03:04,162 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:03:05,423 ERROR 
+2 Failed downloads:
+2026-01-12 01:03:05,424 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:03:06,292 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 01:03:16,767 INFO Bot started
+2026-01-12 01:03:18,219 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:03:20,061 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:03:22,263 ERROR 
+2 Failed downloads:
+2026-01-12 01:03:22,263 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:03:22,726 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 01:03:33,137 INFO Bot started
+2026-01-12 01:03:34,553 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:03:36,289 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:03:37,638 ERROR 
+2 Failed downloads:
+2026-01-12 01:03:37,638 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:03:38,245 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 01:03:48,730 INFO Bot started
+2026-01-12 01:03:50,206 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:03:52,301 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:03:53,618 ERROR 
+2 Failed downloads:
+2026-01-12 01:03:53,618 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:03:54,041 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 01:04:04,615 INFO Bot started
+2026-01-12 01:04:06,012 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:04:08,180 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:04:09,231 ERROR 
+2 Failed downloads:
+2026-01-12 01:04:09,232 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:04:10,505 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 01:04:21,225 INFO Bot started
+2026-01-12 01:04:22,689 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:04:24,747 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:04:26,031 ERROR 
+2 Failed downloads:
+2026-01-12 01:04:26,031 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:04:26,642 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 01:04:37,065 INFO Bot started
+2026-01-12 01:04:38,468 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:04:40,180 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:04:41,478 ERROR 
+2 Failed downloads:
+2026-01-12 01:04:41,478 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:04:42,203 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 01:04:52,862 INFO Bot started
+2026-01-12 01:04:54,140 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:04:55,776 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:04:57,319 ERROR 
+2 Failed downloads:
+2026-01-12 01:04:57,319 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:04:57,933 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 01:05:08,427 INFO Bot started
+2026-01-12 01:05:09,798 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:05:11,538 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:05:13,007 ERROR 
+2 Failed downloads:
+2026-01-12 01:05:13,007 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:05:13,741 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 01:05:24,292 INFO Bot started
+2026-01-12 01:05:26,113 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:05:27,732 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:05:29,241 ERROR 
+2 Failed downloads:
+2026-01-12 01:05:29,241 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:05:29,841 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 01:05:40,385 INFO Bot started
+2026-01-12 01:05:41,800 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:05:43,948 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:05:45,212 ERROR 
+2 Failed downloads:
+2026-01-12 01:05:45,212 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:05:45,992 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 01:05:56,617 INFO Bot started
+2026-01-12 01:05:58,243 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:05:59,630 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:06:01,213 ERROR 
+2 Failed downloads:
+2026-01-12 01:06:01,213 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:06:01,750 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 01:06:12,284 INFO Bot started
+2026-01-12 01:06:13,640 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:06:15,445 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:06:16,939 ERROR 
+2 Failed downloads:
+2026-01-12 01:06:16,939 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:06:17,692 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 01:06:28,339 INFO Bot started
+2026-01-12 01:06:29,772 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:06:32,003 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:06:33,707 ERROR 
+2 Failed downloads:
+2026-01-12 01:06:33,707 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:06:35,315 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 01:06:45,889 INFO Bot started
+2026-01-12 01:06:47,768 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:06:49,545 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:06:50,951 ERROR 
+2 Failed downloads:
+2026-01-12 01:06:50,951 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:06:51,728 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 01:07:02,382 INFO Bot started
+2026-01-12 01:07:03,706 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:07:05,462 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:07:06,916 ERROR 
+2 Failed downloads:
+2026-01-12 01:07:06,916 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:07:07,679 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 01:07:18,239 INFO Bot started
+2026-01-12 01:07:19,563 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:07:21,319 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:07:22,904 ERROR 
+2 Failed downloads:
+2026-01-12 01:07:22,905 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:07:23,630 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 01:07:34,436 INFO Bot started
+2026-01-12 01:07:35,669 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:07:37,386 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:07:39,622 ERROR 
+2 Failed downloads:
+2026-01-12 01:07:39,622 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:07:40,202 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 01:07:50,660 INFO Bot started
+2026-01-12 01:07:52,017 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:07:53,761 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:07:55,182 ERROR 
+2 Failed downloads:
+2026-01-12 01:07:55,182 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:07:55,804 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 01:08:06,210 INFO Bot started
+2026-01-12 01:08:07,608 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:08:09,406 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:08:10,984 ERROR 
+2 Failed downloads:
+2026-01-12 01:08:10,984 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:08:11,583 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 01:08:22,026 INFO Bot started
+2026-01-12 01:08:23,633 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:08:25,239 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:08:26,685 ERROR 
+2 Failed downloads:
+2026-01-12 01:08:26,685 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:08:27,180 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 01:08:37,564 INFO Bot started
+2026-01-12 01:08:38,888 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:08:40,908 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:08:42,420 ERROR 
+2 Failed downloads:
+2026-01-12 01:08:42,421 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:08:42,999 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 01:08:53,426 INFO Bot started
+2026-01-12 01:08:54,720 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:08:56,842 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:08:58,371 ERROR 
+2 Failed downloads:
+2026-01-12 01:08:58,371 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:08:58,942 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 01:09:09,476 INFO Bot started
+2026-01-12 01:09:10,766 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:09:12,557 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:09:14,016 ERROR 
+2 Failed downloads:
+2026-01-12 01:09:14,016 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:09:14,643 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 01:09:25,159 INFO Bot started
+2026-01-12 01:09:26,728 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:09:28,470 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:09:29,860 ERROR 
+2 Failed downloads:
+2026-01-12 01:09:29,861 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:09:30,494 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 01:09:40,923 INFO Bot started
+2026-01-12 01:09:42,126 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:09:44,058 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:09:45,651 ERROR 
+2 Failed downloads:
+2026-01-12 01:09:45,651 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:09:46,397 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 01:09:57,215 INFO Bot started
+2026-01-12 01:09:58,562 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:10:00,366 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:10:01,594 ERROR 
+2 Failed downloads:
+2026-01-12 01:10:01,594 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:10:02,134 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 01:10:12,638 INFO Bot started
+2026-01-12 01:10:14,003 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:10:16,172 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:10:17,656 ERROR 
+2 Failed downloads:
+2026-01-12 01:10:17,656 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:10:19,068 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 01:10:29,698 INFO Bot started
+2026-01-12 01:10:30,955 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:10:32,600 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:10:34,170 ERROR 
+2 Failed downloads:
+2026-01-12 01:10:34,170 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:10:35,153 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 01:10:45,849 INFO Bot started
+2026-01-12 01:10:47,282 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:10:48,906 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:10:50,092 ERROR 
+2 Failed downloads:
+2026-01-12 01:10:50,092 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:10:50,646 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 01:11:01,116 INFO Bot started
+2026-01-12 01:11:02,574 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:11:04,385 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:11:05,694 ERROR 
+2 Failed downloads:
+2026-01-12 01:11:05,694 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:11:06,271 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 01:11:16,659 INFO Bot started
+2026-01-12 01:11:18,001 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:11:19,895 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:11:21,403 ERROR 
+2 Failed downloads:
+2026-01-12 01:11:21,404 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:11:22,102 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 01:11:32,677 INFO Bot started
+2026-01-12 01:11:34,080 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:11:35,646 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:11:37,050 ERROR 
+2 Failed downloads:
+2026-01-12 01:11:37,050 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:11:37,530 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 01:11:47,900 INFO Bot started
+2026-01-12 01:11:49,146 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:11:51,127 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:11:53,225 ERROR 
+2 Failed downloads:
+2026-01-12 01:11:53,225 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:11:53,704 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 01:12:04,064 INFO Bot started
+2026-01-12 01:12:05,543 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:12:07,118 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:12:08,463 ERROR 
+2 Failed downloads:
+2026-01-12 01:12:08,463 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:12:08,936 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 01:12:19,294 INFO Bot started
+2026-01-12 01:12:20,869 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:12:22,405 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:12:23,586 ERROR 
+2 Failed downloads:
+2026-01-12 01:12:23,586 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:12:24,262 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 01:12:34,915 INFO Bot started
+2026-01-12 01:12:37,127 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:12:39,040 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:12:40,598 ERROR 
+2 Failed downloads:
+2026-01-12 01:12:40,599 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:12:41,172 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 01:12:51,729 INFO Bot started
+2026-01-12 01:12:53,105 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:12:54,943 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:12:56,228 ERROR 
+2 Failed downloads:
+2026-01-12 01:12:56,228 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:12:56,745 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 01:13:07,268 INFO Bot started
+2026-01-12 01:13:08,985 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:13:10,814 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:13:12,556 ERROR 
+2 Failed downloads:
+2026-01-12 01:13:12,556 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:13:13,096 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 01:13:23,510 INFO Bot started
+2026-01-12 01:13:25,471 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:13:28,009 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:13:29,405 ERROR 
+2 Failed downloads:
+2026-01-12 01:13:29,405 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:13:29,855 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 01:13:40,371 INFO Bot started
+2026-01-12 01:13:41,648 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:13:43,459 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:13:45,044 ERROR 
+2 Failed downloads:
+2026-01-12 01:13:45,044 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:13:45,954 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 01:13:56,584 INFO Bot started
+2026-01-12 01:13:57,817 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:13:59,567 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:14:01,144 ERROR 
+2 Failed downloads:
+2026-01-12 01:14:01,144 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:14:01,656 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 01:14:12,065 INFO Bot started
+2026-01-12 01:14:13,499 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:14:15,331 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:14:16,793 ERROR 
+2 Failed downloads:
+2026-01-12 01:14:16,793 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:14:17,720 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 01:14:28,410 INFO Bot started
+2026-01-12 01:14:29,668 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:14:31,471 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:14:33,020 ERROR 
+2 Failed downloads:
+2026-01-12 01:14:33,020 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:14:33,494 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 01:14:44,067 INFO Bot started
+2026-01-12 01:14:45,349 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:14:47,099 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:14:48,462 ERROR 
+2 Failed downloads:
+2026-01-12 01:14:48,462 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:14:49,025 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 01:14:59,675 INFO Bot started
+2026-01-12 01:15:01,159 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:15:02,882 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:15:04,307 ERROR 
+2 Failed downloads:
+2026-01-12 01:15:04,307 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:15:04,891 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 01:15:15,705 INFO Bot started
+2026-01-12 01:15:17,464 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:15:19,030 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:15:20,702 ERROR 
+2 Failed downloads:
+2026-01-12 01:15:20,702 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:15:21,444 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 01:15:32,026 INFO Bot started
+2026-01-12 01:15:33,707 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:15:35,709 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:15:37,268 ERROR 
+2 Failed downloads:
+2026-01-12 01:15:37,268 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:15:38,159 INFO SELL HDFCLIFE.NS @ 749.9000244140625
+2026-01-12 01:22:16,244 ERROR $MINDTREE.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:22:16,245 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:22:18,519 ERROR $ADANITRANS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:22:19,861 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:22:20,835 ERROR 
+4 Failed downloads:
+2026-01-12 01:22:20,835 ERROR ['MINDTREE.NS', 'ZOMATO.NS', 'ADANITRANS.NS', 'TATAMOTORS.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:23:27,932 ERROR HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: TATAMOTORS.NS"}}}
+2026-01-12 01:23:28,880 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:23:29,538 ERROR $MINDTREE.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:23:31,685 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:23:34,623 ERROR $ADANITRANS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:23:34,630 ERROR 
+4 Failed downloads:
+2026-01-12 01:23:34,630 ERROR ['TATAMOTORS.NS', 'MINDTREE.NS', 'ZOMATO.NS', 'ADANITRANS.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:25:19,392 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:25:22,321 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:25:22,325 ERROR $MINDTREE.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:25:23,043 ERROR $ADANITRANS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:25:23,044 ERROR 
+4 Failed downloads:
+2026-01-12 01:25:23,044 ERROR ['ZOMATO.NS', 'TATAMOTORS.NS', 'MINDTREE.NS', 'ADANITRANS.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:28:22,659 ERROR $MINDTREE.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:28:24,559 ERROR $ADANITRANS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:28:26,873 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:28:27,287 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:28:27,292 ERROR 
+4 Failed downloads:
+2026-01-12 01:28:27,292 ERROR ['MINDTREE.NS', 'ADANITRANS.NS', 'ZOMATO.NS', 'TATAMOTORS.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:33:14,482 ERROR $ADANITRANS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:33:14,498 ERROR HTTP Error 404: {"quoteSummary":{"result":null,"error":{"code":"Not Found","description":"Quote not found for symbol: TATAMOTORS.NS"}}}
+2026-01-12 01:33:15,063 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:33:15,483 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:33:18,005 ERROR $MINDTREE.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:33:18,245 ERROR 
+4 Failed downloads:
+2026-01-12 01:33:18,245 ERROR ['ADANITRANS.NS', 'ZOMATO.NS', 'TATAMOTORS.NS', 'MINDTREE.NS']: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:58:53,453 ERROR $ADANITRANS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:58:55,216 ERROR $MINDTREE.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:58:55,664 ERROR $ZOMATO.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
+2026-01-12 01:58:56,243 ERROR $TATAMOTORS.NS: possibly delisted; no price data found  (period=1y) (Yahoo error = "No data found, symbol may be delisted")
